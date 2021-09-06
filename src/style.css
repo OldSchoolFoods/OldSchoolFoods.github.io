@@ -637,7 +637,7 @@ section.band .social ul img {
   position: sticky;
   -webkit-position: sticky;
   top: 11.2rem;
-  width: 14.5rem; z-index:10;
+  width: 14.5rem; z-index:5;
 }
 
 .beaut h2 {

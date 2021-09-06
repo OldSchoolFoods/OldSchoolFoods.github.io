@@ -1,7 +1,7 @@
 {
-  "name": "osf-work-model",
+  "name": "OldSchoolFoods.github.io",
   "version": "1.0.0",
-  "description": "These are the starting files used by [Kevin Powell](https://kevinpowell.co) to create a personal blog site for the [Codementor](https://www.codementor.io/) DevProjects Challenge, [Create a fast and secure blog using JAMStack](https://www.codementor.io/projects/web/create-a-fast-and-secure-blog-using-jamstack-c93coupnxb). You are free to use them however you want to get started with the challenge, if you'd like to start working on creating the site without worrying about the content itself.",
+  "description": "Old School Foods - official website. Makers of Kachori Kaka.",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
@@ -9,19 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dee0954/osf-work-model.git"
+    "url": "git+https://github.com/OldSchoolFoods/OldSchoolFoods.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dee0954/osf-work-model/issues"
+    "url": "https://github.com/OldSchoolFoods/OldSchoolFoods.github.io/issues"
   },
-  "homepage": "https://github.com/Dee0954/osf-work-model#readme",
+  "homepage": "https://github.com/OldSchoolFoods/OldSchoolFoods.github.io#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "concurrently": "^6.2.1",
-    "http-server": "^13.0.1"
+    "@11ty/eleventy": "^0.12.1"
   },
   "dependencies": {
     "eleventy-plugin-reading-time": "0.0.1"

@@ -173,7 +173,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  z-index: 2000;
+  z-index: 10;
 }
 
 /* ////////////////////// --clr-primary-300

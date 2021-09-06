@@ -1,0 +1,27 @@
+{
+  "name": "OldSchoolFoods.github.io",
+  "version": "1.0.0",
+  "description": "Old School Foods - official website. Makers of Kachori Kaka.",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OldSchoolFoods/OldSchoolFoods.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OldSchoolFoods/OldSchoolFoods.github.io/issues"
+  },
+  "homepage": "https://github.com/OldSchoolFoods/OldSchoolFoods.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "eleventy-plugin-reading-time": "0.0.1"
+  }
+}

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;600&family=Work+Sans:ital,wght@0,600;1,100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+<script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <title>Old School Foods | Home of Kachori Kaka</title>
+  </head>
+  <body>
+    <header>
+  <div class="osfcontain">
+    <a class="logo" href="/"><img src="/assets/OSF-logo.svg" alt=""></a>
+
+    <div class="menu">
+    <ul>
+      <li><a href="/#weare">About OSF</a></li>
+      <li><a href="/#products">Brand Basket</a></li>
+      <li><a href="/blog/">Blog</a></li>
+      <li><a href="/#contact">Contact</a></li>
+    </ul>
+    </div>
+    <div class="social">
+      <ul>
+        <li><a target="_blank" href="https://www.facebook.com/Old-School-Foods-113888357612020"><img src="/assets/icon-fb.svg" alt="OSF Facebook"></a></li>
+        
+        <li><a target="_blank" href="https://wa.me/message/3KVST7Z2IZECK1"><img src="/assets/icon-wapp.svg" alt="connect on Whatsapp"></a></li>
+        
+        <li><a target="_blank" href="https://cutt.ly/1mI19iJ"><img src="/assets/icon-business.svg" alt="Google Business account"></a></li>
+      </ul>
+    </div>
+    <div class="subhead">Food we Respect<br> is Food we Serve</div>
+  </div>
+</header>
+
+    <main>
+    
+<div class="anchor" id="weare">
+</div>
+<div class="osfcontain">
+  <div class="story">
+    <h2>Who we are</h2>
+    <p>We are a group of food enthusiasts, researchers, creators, designers and craftsmen who understand food in depth before you consume</p>
+    
+  </div>
+</div>
+<div class="osfcontain">
+  <div class="story">
+    <h2>What we do</h2>
+    <p>Our quest is for unique & well-loved comfort food recipes - to recognise them and bring them to your table.
+      We combine craftsmanship, science, design and respect for food that creates an experience that can be shared with many.
+    
+
+    </p>
+  </div>
+</div>
+<div class="anchor" id="products">
+</div>
+<section class="band white">
+  <div class="osfcontain">
+    <div class="trade">
+      <h2>Brand Basket</h2>
+    </div>
+    <div class="story">
+      <h2>Big missions start small.</h2>
+      <p>On a pursuit of finding treasures in the form of unique recipes hidden around the world. The mission started with India’s favourite snack, Kachori.</p>
+    </div>
+    <div class="spot">
+      <a href="https://kachorikaka.com" target="_blank">
+        <img src="/assets/KK-logo.svg" alt="">
+        <p>
+          <b>Legacy Brand:</b>
+          Kachori Kaka</p>
+      </a>
+    </div>
+    <div class="more">
+      <h3>And more
+        <br>coming soon!</h3>
+    </div>
+  </div>
+</section>
+<div class="anchor" id="contact">
+</div>
+<section class="band">
+  <div class="osfcontain">
+    <div class="story">
+      <h2>Get in touch</h2>
+      <p>
+        <b>Phone:</b>
+        8826000547</p>
+      <p>
+        <b>Email:</b>
+        contact@oldschoolfoods.in</p>
+      <p>
+        <b>Address:</b>
+        109, Sector 27, Gurgaon 122009</p>
+      <div class="social">
+        <ul>
+          <li>
+            <a target="_blank" href="https://www.facebook.com/Old-School-Foods-113888357612020"><img src="/assets/icon-fb.svg" alt="OSF Facebook"></a>
+          </li>
+          <li>
+            <a target="_blank" href="#"><img src="/assets/icon-insta.svg" alt="OSF Instagram"></a>
+          </li>
+          <li>
+            <a target="_blank" href="https://wa.me/message/3KVST7Z2IZECK1"><img src="/assets/icon-wapp.svg" alt="connect on Whatsapp"></a>
+          </li>
+          <li>
+            <a target="_blank" href="#"><img src="/assets/icon-linkd.svg" alt="View LinkedIn profile"></a>
+          </li>
+          <li>
+            <a target="_blank" href="#"><img src="/assets/icon-yt.svg" alt="Youtube channel"></a>
+          </li>
+          <li>
+            <a target="_blank" href="#"><img src="/assets/icon-tw.svg" alt="Twitter"></a>
+          </li>
+          <li>
+            <a target="_blank" href="https://cutt.ly/1mI19iJ"><img src="/assets/icon-business.svg" alt="Google Business account"></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="trade">
+      <a href="https://forms.gle/ZvyjwAps7NXjRJea9" target="_blank">
+        <h2>Catering Requests</h2>
+      </a>
+    </div>
+  </div>
+
+</section>
+
+    </main>
+    <footer class="site-footer">
+
+<p>© 2021 Old School Foods. All rights reserved. </p>
+</footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+  $('a[href^="/#"]').on('click', function(e) {
+    // prevent default anchor click behavior
+    e.preventDefault();
+    // store hash
+    var hash = this.hash;
+    // animate
+    $('html, body').animate({
+      scrollTop: $(hash).offset().top - 100
+    }, 1000, function() {
+      // when done, add hash to url
+      // (default click behaviour)
+      // window.location.hash = hash;
+    });
+
+  });
+</script>
+  </body>
+</html>

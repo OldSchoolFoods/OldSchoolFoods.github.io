@@ -24,7 +24,11 @@ body, h1, h2, h3, p {
 }
 a {text-decoration: none;color: var(--clr-primary);}
 a:hover  {text-decoration: none;color: var(--clr-second);}
-img.colicon:hover {fill: var(--clr-second);}
+
+img.colicon {filter:invert(95%) sepia(10%) saturate(6336%) hue-rotate(300deg) brightness(99%) contrast(52%);}
+a:hover img.colicon {filter: invert(20%) sepia(9%) saturate(5892%) hue-rotate(338deg) brightness(93%) contrast(92%);
+  /* fill: var(--clr-second); */
+}
 
 h1, h3 {
   font-variation-settings: "wght" 700;

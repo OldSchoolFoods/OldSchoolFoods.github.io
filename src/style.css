@@ -647,7 +647,7 @@ section.band .social ul img {
   border-top: 1px solid var(--clr-neutral-300);
   position: sticky;
   -webkit-position: sticky;
-  top: 14.5rem;
+  top: 15.5rem;
   font-size: var(--fs-400);
 }
 

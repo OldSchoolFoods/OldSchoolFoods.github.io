@@ -41,6 +41,17 @@
   }
 }
 
+@media (max-width: 320px) {
+  :root {
+    --fs-200: 0.8375rem;
+    --fs-300: 0.85rem;
+    --fs-400: 1.125rem;
+    --fs-500: 1.5rem;
+    --fs-600: 2.25rem;
+    --fs-700: 3rem;
+  }
+}
+
 /* //////////////////////
   RESET - source: https://piccalil.li/blog/a-modern-css-reset
   /////////////////////// */
@@ -95,9 +106,15 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-attachment: fixed;
-}
+  background-attachment:fixed;
 
+}
+@supports (-webkit-overflow-scrolling: touch) {
+  body {
+  background-attachment: scroll; /*for iOS */
+  /* background-size: cover; */
+  }
+}
 /* A elements that don't have a class get default styles */
 a:not([class]) {
   text-decoration-skip-ink: auto;
@@ -173,7 +190,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  z-index: 2000;
+  z-index: 10;
 }
 
 /* ////////////////////// --clr-primary-300
@@ -226,6 +243,9 @@ header {
   font-size: var(--fs-600);
 }
 
+.welcome {font-size: var(--fs-500);
+color: var(--clr-primary-400);
+text-transform: capitalize;}
 /* //////////////////////
   Header
   /////////////////////// */
@@ -326,6 +346,8 @@ main {
   background: var(--clr-primary-400A);
   padding-left: 150px;
 }
+.story a{color: var(--clr-primary-300);}
+.story a:hover {color:var(--clr-primary-200);}
 
 p {
   font-size: var(--fs-300);
@@ -490,6 +512,7 @@ section.band .social ul img {
 @media (min-width: 45em) {
   .hero>div {
     grid-auto-flow: column;
+        grid-gap: 0.5rem;
   }
 }
 
@@ -637,7 +660,7 @@ section.band .social ul img {
   position: sticky;
   -webkit-position: sticky;
   top: 11.2rem;
-  width: 14.5rem; z-index:10;
+  width: 14.5rem; z-index:5;
 }
 
 .beaut h2 {
@@ -647,7 +670,7 @@ section.band .social ul img {
   border-top: 1px solid var(--clr-neutral-300);
   position: sticky;
   -webkit-position: sticky;
-  top: 14.5rem;
+  top: 15.5rem;
   font-size: var(--fs-400);
 }
 
@@ -750,7 +773,7 @@ padding-left:2%; font-size: 0.85rem;
   }
 
   .subhead {
-    grid-column: 4/7;
+    grid-column: 3/7;
     grid-row: 1/2;
     font-size: var(--fs-400);
     padding: 0;

@@ -2,12 +2,12 @@ const {
   DateTime
 } = require("luxon");
 const readingTime = require('eleventy-plugin-reading-time');
-const faviconPlugin = require("eleventy-favicon");
+// const faviconPlugin = require("eleventy-favicon");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/style.css');
   eleventyConfig.addPassthroughCopy('./src/assets');
-  eleventyConfig.addPlugin(faviconPlugin, {destination: './public'});
+  // eleventyConfig.addPlugin(faviconPlugin, {destination:'./public'});
   eleventyConfig.addPassthroughCopy('./src/admin');
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addFilter("postDate", (dateObj) => {

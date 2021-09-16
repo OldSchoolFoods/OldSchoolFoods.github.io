@@ -27,9 +27,18 @@ a:hover  {text-decoration: none;color: var(--clr-second);}
 
 img.colicon {filter:invert(95%) sepia(10%) saturate(6336%) hue-rotate(300deg) brightness(99%) contrast(52%);}
 a:hover img.colicon {filter: invert(20%) sepia(9%) saturate(5892%) hue-rotate(338deg) brightness(93%) contrast(92%);
-  /* fill: var(--clr-second); */
+  /* fill: var(--clr-second); */ animation-duration: 1s;
+        animation-iteration-count: infinite;transform-origin: bottom;
 }
-
+.bounce {
+        animation-name: bounce;
+        animation-timing-function: ease;
+    }
+    @keyframes bounce {
+        0%   { transform: translateY(0); }
+        50%  { transform: translateY(-5px); }
+        100% { transform: translateY(0); }
+    }
 h1, h3 {
   font-variation-settings: "wght" 700;
 }
@@ -40,6 +49,10 @@ h1, a > h1 {
 
 h3, a > h3 {
   font-size: var(--fs-500);
+  border: 1px solid;
+    padding: 2px 0 2px 8px;
+    border-radius: 50px;
+    margin-left: -0.5rem;
 }
 
 body {
@@ -66,7 +79,7 @@ section h1{margin-bottom: 1rem;}
 .cols {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(20rem, 100%), 1fr));
-  align-items: start;
+  align-items: start; grid-gap: 1.25rem;
 }
 
 .cols>div {
@@ -75,11 +88,11 @@ section h1{margin-bottom: 1rem;}
 .colinfo {display: grid;
     grid-template-columns: 1fr 3fr;
     grid-template-rows: 2.5rem 1fr;
-    align-items: center;}
+    align-items: center; grid-gap:1rem;}
 
     .colicon {    grid-row: 1/3;
     min-height: 3rem;max-height: 3.5rem;
     align-self: start;
-    padding-top: 1rem;
+    padding-top: 0.25rem;
     min-width: 2.5rem;
     justify-self: center;}

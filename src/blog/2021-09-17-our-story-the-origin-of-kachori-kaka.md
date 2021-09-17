@@ -1,5 +1,5 @@
 ---
-title: "Our Story: The Origin of Kachori Kaka"
+title: "Our Story: The Origin of KACHORI KAKA"
 description: "The project started in Jan 2020, when 2 aspiring entrepreneurs and
   also good friends pondered over the idea of selling Kachoris. Without taking
   much time, these fellows started brainstorming and identifying a few taste
@@ -55,7 +55,7 @@ Hence the company name identified for the suite of brands is Old School Foods wi
 
 <div>
 
-# References for the kachori’s origin
+# References for the KACHORI’S origin
 
 [Indian Express - From Nagori to Banarsi kachori: An ode to one of India’s most loved snacks](https://indianexpress.com/article/lifestyle/food-wine/a-short-history-of-kachori-from-nagori-to-banarsi-kachori-2815575-foodie/)
 

@@ -48,11 +48,11 @@ h1, a > h1 {
 }
 
 h3, a > h3 {
-  font-size: var(--fs-500);
+  font-size: var(--fs-400);
   border: 1px solid;
-    padding: 2px 0 2px 8px;
+    padding: 2px 0 2px 1rem;
     border-radius: 50px;
-    margin-left: -0.5rem;
+    margin-left: -0.75rem;
 }
 
 body {

@@ -1,0 +1,98 @@
+@mixin transition($transition...){
+   -webkit-transition: $transition;
+   -moz-transition: $transition;
+   transition: $transition;
+} // @include transition(transform 0.3s);
+
+$brand-primary: #8C4B38;
+$clr-second: #662E19;
+
+.arrowbtns {
+   .btn {
+      background: none;
+      cursor: pointer;
+      padding-top: 5px;
+      padding-bottom: 5px;
+
+      outline: none;
+      position: relative;
+      @include transition(all 0.3s);
+      border: 1px solid #ffffff;
+      color: $brand-primary;
+      overflow: hidden;
+      -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+border-radius: 25px;
+    background: -moz-linear-gradient(top, #ffffff 0%, #ffc107 100%) url('../img/arrow-rt.svg') right no-repeat; /* firefox */
+
+    // text-shadow: 0 1px 2px #fff;
+    background: url('../img/arrow-rt.svg') right no-repeat, -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ffffff), color-stop(100%,	#ffc107)) ; /* webkit */
+    background-position-x: 95%;
+
+      &:after {
+         content: '';
+         position: absolute;
+         z-index: -1;
+         @include transition(all 0.3s);
+      }
+
+      &:before {
+
+         speak: none;
+         font-style: normal;
+         font-weight: normal;
+         font-variant: normal;
+         text-transform: none;
+         line-height: 1;
+         position: relative;
+         -webkit-font-smoothing: antialiased;
+         position: absolute;
+         height: 100%;
+         font-size: 125%;
+         line-height: 3.5;
+         color: $brand-primary;
+         @include transition(all 0.3s);
+      }
+
+      &:active {
+         border-color: $clr-second;
+         color: $clr-second;
+
+         &:before {
+            color: #17954c;
+         }
+      }
+
+      &:hover {
+         background: $clr-second;
+         color: #fff;
+      }
+
+   }
+
+   .arrow-left {
+      &:before {
+         left: 70%;
+         opacity: 0;
+         top: 0;
+      }
+
+      &:hover:before {
+         left: 80%;
+         opacity: 1;
+      }
+   }
+
+   .arrow-right {
+      &:before {
+         left: 30%;
+         opacity: 0;
+         top: 0;
+      }
+
+      &:hover:before {
+         left: 10%;
+         opacity: 1;
+      }
+   }
+}

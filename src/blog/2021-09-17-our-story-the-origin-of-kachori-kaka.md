@@ -43,13 +43,13 @@ The new Kachori for newer generations to come.
 
 # KACHORI KAKA
 
-The brand name identified for the project is Kachori Kaka which immediately catches attention to the ears and also ‘Kaka’ resonates with the traditional sentiments from India.
+The brand name identified for the project is KACHORI KAKA which immediately catches attention to the ears and also ‘KAKA’ resonates with the traditional sentiments from India.
 
-Ankur identifies himself as the Kachori Kaka as he has been to his friends multiple times, carrying Kadhai, Oil, masala and spices as part of his Kachori improvisation and spreading the Kachori Joy. His friends and family have been valuable in providing minute feedback to make Kachori better inch by inch. 
+Ankur identifies himself as the KACHORI KAKA as he has been to his friends multiple times, carrying Kadhai, Oil, masala and spices as part of his Kachori improvisation and spreading the Kachori Joy. His friends and family have been valuable in providing minute feedback to make Kachori better inch by inch. 
 
 It is very important to associate the project with a mission statement and while working on the same, it was identified that the movement is trying to save the footprint of snacks that were once part of our childhood. 
 
-Hence the company name identified for the suite of brands is Old School Foods with Kachori Kaka as the first brand and more to come.
+Hence the company name identified for the suite of brands is Old School Foods with KACHORI KAKA as the first brand and more to come.
 
 </div>
 

@@ -6,7 +6,7 @@ description: "The project started in Jan 2020, when 2 aspiring entrepreneurs and
   profiles which will cater to Indian taste buds wrapped inside a Kachori. "
 author: Ankur Dubey
 date: 2021-07-02T10:27:30.201Z
-image: /assets/blog/kk-origins.png
+image: /assets/blog/kk-origins-article.png
 imageAlt: KACHORI KAKA
 tags:
   - post

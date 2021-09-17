@@ -27,9 +27,9 @@ Kachori, witnessed to be present back in [](https://en.wikipedia.org/wiki/Kachor
 
 After identifying a few flavours that the Indian market might like, the two friends put up a stall in a residential area during Valentine’s Day Celebration and had planned for 100 Kachori Trial. By afternoon they were stocked out and the customers wished they had more left. 
 
-![](/assets/blog/kachori-origin.png "***Image Caption: Few glimpses from the day***")
+![](/assets/blog/kachori-origin.png)
 
-
+***Image Caption: Few glimpses from the day***
 
 After wrapping earlier than expected, seeing the excitement in customer sentiments to find a Kachori Stall among the likes of Pizzas, Pastas, Burgers, attending Dads bringing their sons to relish a snack that is losing the footprint in the Indian market, it was clear that if done right, market is waiting for such excitement. That was enough to get the entrepreneurs going. 
 

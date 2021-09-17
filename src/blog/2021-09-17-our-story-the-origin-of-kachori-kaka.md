@@ -27,15 +27,15 @@ Kachori, witnessed to be present back in [](https://en.wikipedia.org/wiki/Kachor
 
 After identifying a few flavours that the Indian market might like, the two friends put up a stall in a residential area during Valentine’s Day Celebration and had planned for 100 Kachori Trial. By afternoon they were stocked out and the customers wished they had more left. 
 
-![](/assets/blog/kachori-origin.png)
+![](/assets/blog/kachori-origin.png "***Image Caption: Few glimpses from the day***")
 
-***Image Caption: Few glimpses from the day***
+
 
 After wrapping earlier than expected, seeing the excitement in customer sentiments to find a Kachori Stall among the likes of Pizzas, Pastas, Burgers, attending Dads bringing their sons to relish a snack that is losing the footprint in the Indian market, it was clear that if done right, market is waiting for such excitement. That was enough to get the entrepreneurs going. 
 
 One of the friends got a calling to pursue a different line of interest however one of them continued working. It was just the start, a lot of work had to be done. The idea was to create the perfect Kachori as we all know it. Crisp, fluffy, delicious and round while bringing traditional and a mix of new flavours for the Indian taste buds. It's been almost a year working on a recipe with angles of making it wholesome, making it as healthy as possible, optimizing Kitchen operations to make the product scalable and giving all Kachori characteristics to it.
 
-The new Kachori for newer generations to come.
+**The new Kachori for newer generations to come.**
 
 </div>
 

@@ -55,7 +55,7 @@ Hence the company name identified for the suite of brands is Old School Foods wi
 
 <div>
 
-# References for the KACHORI’S origin
+# References for the Kachori's origin
 
 [Indian Express - From Nagori to Banarsi kachori: An ode to one of India’s most loved snacks](https://indianexpress.com/article/lifestyle/food-wine/a-short-history-of-kachori-from-nagori-to-banarsi-kachori-2815575-foodie/)
 
@@ -63,6 +63,6 @@ Hence the company name identified for the suite of brands is Old School Foods wi
 
 [Times of India - Interesting Facts About Kachori ](https://recipes.timesofindia.com/articles/food-facts/interesting-facts-about-kachori-that-will-leave-you-surprised/photostory/63186781.cms?picid=63186838)
 
-[Indian Cuisine and Food](https://www.quora.com/Indian-Cuisine-and-Food-What-is-the-history-of-Kachori-and-its-etymology)
+[Quora - Indian Cuisine and Food](https://www.quora.com/Indian-Cuisine-and-Food-What-is-the-history-of-Kachori-and-its-etymology)
 
-[Know the history and types of your favourite Kachori](https://english.newstracklive.com/news/history-and-types-of-kachori-sub-food-recipe-creur--44504-1.html)
+[English.Newstracklive - Know the history and types of your favourite Kachori](https://english.newstracklive.com/news/history-and-types-of-kachori-sub-food-recipe-creur--44504-1.html)

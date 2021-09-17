@@ -17,11 +17,7 @@ tags:
 
 The project started in Jan 2020, when 2 aspiring entrepreneurs and also good friends pondered over the idea of selling Kachoris. Without taking much time, these fellows started brainstorming and identifying a few taste profiles which will cater to Indian taste buds wrapped inside a Kachori. 
 
-
-
 Kachori, witnessed to be present back in [1613](https://en.wikipedia.org/wiki/Kachori) is believed to have originated from the [Marwari](https://indianexpress.com/article/lifestyle/food-wine/a-short-history-of-kachori-from-nagori-to-banarsi-kachori-2815575-foodie/) culture who settled across the country and were the pioneers of trade and commerce. These businessmen used to travel long distances and as part of their meals took Kachoris made at their homes, traditionally Dal Kachori as a complete package of Carbs, fats and Proteins.  Till date, the good thing about kachoris is that, despite being fried foods, they are not as bad as they are made out to be. Using traditional oils or ghee, one could eat them without having to worry much about clogged arteries by keeping portions in check. Kachoris are meant to keep one full till the evening, balancing the total calorie consumption of the day naturally.
-
-
 
 </div>
 
@@ -31,23 +27,17 @@ Kachori, witnessed to be present back in [1613](https://en.wikipedia.org/wiki/Ka
 
 After identifying a few flavours that the Indian market might like, the two friends put up a stall in a residential area during Valentine’s Day Celebration and had planned for 100 Kachori Trial. By afternoon they were stocked out and the customers wished they had more left. 
 
-
-
 ![](/assets/blog/kachori-origin.png)
+
+IMAGE CAPTION:
 
 
 
 After wrapping earlier than expected, seeing the excitement in customer sentiments to find a Kachori Stall among the likes of Pizzas, Pastas, Burgers, attending Dads bringing their sons to relish a snack that is losing the footprint in the Indian market, it was clear that if done right, market is waiting for such excitement. That was enough to get the entrepreneurs going. 
 
-
-
 One of the friends got a calling to pursue a different line of interest however one of them continued working. It was just the start, a lot of work had to be done. The idea was to create the perfect Kachori as we all know it. Crisp, fluffy, delicious and round while bringing traditional and a mix of new flavours for the Indian taste buds. It's been almost a year working on a recipe with angles of making it wholesome, making it as healthy as possible, optimizing Kitchen operations to make the product scalable and giving all Kachori characteristics to it.
 
-
-
 The new Kachori for newer generations to come.
-
-
 
 </div>
 
@@ -59,15 +49,9 @@ The brand name identified for the project is Kachori Kaka which immediately catc
 
 Ankur identifies himself as the Kachori Kaka as he has been to his friends multiple times, carrying Kadhai, Oil, masala and spices as part of his Kachori improvisation and spreading the Kachori Joy. His friends and family have been valuable in providing minute feedback to make Kachori better inch by inch. 
 
-
-
 It is very important to associate the project with a mission statement and while working on the same, it was identified that the movement is trying to save the footprint of snacks that were once part of our childhood. 
 
-
-
 Hence the company name identified for the suite of brands is Old School Foods with Kachori Kaka as the first brand and more to come.
-
-
 
 </div>
 

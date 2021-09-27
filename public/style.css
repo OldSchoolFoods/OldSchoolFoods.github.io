@@ -98,17 +98,34 @@ margin-top: -6em;}
 
 /* Set core body defaults */
 body {
-  min-height: 100vh;
+  height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
-  background: url(./assets/harsh-pandey-dXGl11H1Kbg-unsplash.jpg) left no-repeat;
+  /* background: url(./assets/harsh-pandey-dXGl11H1Kbg-unsplash.jpg) left no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-attachment:fixed;
+  background-attachment:fixed; */
 
 }
+
+body:after{
+      content:"";
+      position:fixed; /* stretch a fixed position to the whole screen */
+      top:0;
+      height:100vh; /* fix for mobile browser address bar appearing disappearing */
+      left:0;
+      right:0;
+      z-index:-1; /* needed to keep in the background */
+      background: url(./assets/harsh-pandey-dXGl11H1Kbg-unsplash.jpg) left no-repeat;
+      background-size: cover;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-attachment:fixed;
+}
+
 @supports (-webkit-overflow-scrolling: touch) {
   body {
   background-attachment: scroll; /*for iOS */
@@ -206,6 +223,7 @@ header {
 .beaut>*:where(:not(:first-child)) {
   margin-top: var(--flow-spacer, 1em);
 }
+
 
 .container {
   margin-inline: auto;
@@ -500,9 +518,11 @@ section.band .social ul img {
 }
 
 .hero p:last-child, article p:last-child {
-  padding-bottom: 1.5rem;
-}
+  padding-bottom: 1.5rem; }
 
+article li > p:last-child {
+    padding-bottom: unset;
+  }
 .hero__image {
   width: 100%;
   max-height: max(15rem, 40vh);
@@ -686,6 +706,11 @@ section.band .social ul img {
   padding-bottom: 0.5rem;
   text-align: justify;
 }
+
+article .beaut div div p:first-child {margin-top: -1.25rem;}
+
+article .beaut li > p {padding-bottom: 0.25rem;
+    padding-top: 0.25rem; }
 
 .beaut td {
   font-weight: normal;

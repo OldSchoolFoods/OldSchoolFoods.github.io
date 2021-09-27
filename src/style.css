@@ -518,9 +518,11 @@ section.band .social ul img {
 }
 
 .hero p:last-child, article p:last-child {
-  padding-bottom: 1.5rem;
-}
+  padding-bottom: 1.5rem; }
 
+article li > p:last-child {
+    padding-bottom: unset;
+  }
 .hero__image {
   width: 100%;
   max-height: max(15rem, 40vh);
@@ -705,9 +707,9 @@ section.band .social ul img {
   text-align: justify;
 }
 
-.beaut > div > p:first-child {margin-top: -1.25rem;}
+article .beaut div div p:first-child {margin-top: -1.25rem;}
 
-article .beaut > li > p {padding-bottom: 0.25rem;
+article .beaut li > p {padding-bottom: 0.25rem;
     padding-top: 0.25rem; }
 
 .beaut td {

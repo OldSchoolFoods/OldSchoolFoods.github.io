@@ -224,6 +224,7 @@ header {
   margin-top: var(--flow-spacer, 1em);
 }
 
+
 .container {
   margin-inline: auto;
   padding-inline: 1.5em;
@@ -703,6 +704,11 @@ section.band .social ul img {
   padding-bottom: 0.5rem;
   text-align: justify;
 }
+
+.beaut > div > p:first-child {margin-top: -1.25rem;}
+
+.beaut > li > p {padding-bottom: 0.25rem;
+    padding-top: 0.25rem; }
 
 .beaut td {
   font-weight: normal;

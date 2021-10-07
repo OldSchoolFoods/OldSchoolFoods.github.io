@@ -30,6 +30,8 @@ a:hover img.colicon {filter: invert(20%) sepia(9%) saturate(5892%) hue-rotate(33
   /* fill: var(--clr-second); */ animation-duration: 1s;
         animation-iteration-count: infinite;transform-origin: bottom;
 }
+
+section > * {padding:1rem 0;}
 .bounce {
         animation-name: bounce;
         animation-timing-function: ease;
@@ -79,7 +81,7 @@ section h1{margin-bottom: 1rem;}
 .cols {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(20rem, 100%), 1fr));
-  align-items: start; grid-gap: 1.25rem;
+  align-items: start; grid-gap: 1.25rem; border-bottom: 1px solid var(--clr-primary);
 }
 
 .cols>div {

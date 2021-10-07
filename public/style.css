@@ -789,13 +789,15 @@ padding-left:2%; font-size: 0.85rem;
   .menu ul {
     border: 2px solid var(--clr-primary-400);
     display: flex;
-    flex-direction: row;
+    flex-direction: row; flex: auto;
     height: auto;
     width: auto;
     justify-content: space-between;
+    align-items: center;
     padding: 0;
     margin: 0;
   }
+  .menu li {width:min-content;}
 
   .subhead {
     grid-column: 3/7;

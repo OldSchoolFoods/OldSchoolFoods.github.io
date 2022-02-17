@@ -13,8 +13,6 @@ tags:
 ---
 <div>
 
-
-
 Well, it starts with the problem statement of what we want to achieve. 
 
 We want to achieve a Kachori with following characteristics:
@@ -43,8 +41,6 @@ It's the same reason why a balloon becomes inflated. Air trapped inside it.
 But, are we inducing air into the kachori like we do in balloons ? No ! Then how does it take that shape ? It's because of the steam that is generated inside the kachori because of the moisture present in the dough.
 
 Some people would suggest using baking soda/powder for this but it wont do the same job. It will make the layer of the kachori puffed up but not necessarily the kachori as whole.
-
-
 
 ## The process of making kachori is as follows:
 
@@ -105,6 +101,8 @@ If the edges are sharp, so will the kachori be after it has risen
 
 <div>
 
-Let us come to crafting mini kachoris now. Before we start off with the physics behind it, let us set a foundation by stating that- there's a strong connection between what works for mini kachoris is the exact opposite of what works for kachoris.
+Let us come to crafting mini kachoris now. Before we start off with the physics behind it, let us set a foundation by stating that- there's a strong connection between what works for mini kachoris is the exact opposite of what creates a barrier for kachoris.
 
-1. While making a kachori, we need the air to be trapped inside when frying it so that the kachori can inflate and reach its desired form. With mini kachoris, when the air is trapped inside company 3
+1. While making a kachori, we need the steam to be trapped inside when frying it so that the kachori can inflate and reach its desired form. and the same steam with mini kachoris bursts With mini kachoris, when the steam is trapped inside it needs a getaway and that's why it bursts out from the mini kachori causing it to break.
+2. What we understand by this is that the air inside the mini kachori needs an escape and we need to do something about the same. Therefore, before the mini kachori enters the hot ghee to be fried a few holes are poked into it with a toothpick for the air to pass while frying.
+3. This is an important step for making mini kachoris as this is what determines the final form of the mini kachori.

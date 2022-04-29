@@ -19,4 +19,3 @@ collections:
       - { label: "Image Caption", name: "imageAlt", widget: "string"}
       - { label: "Body", name: "body", widget: "markdown"}
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-      - { label: "Video", name: "video", widget: "file"}

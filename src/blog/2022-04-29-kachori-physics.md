@@ -26,3 +26,9 @@ We want to achieve a Kachori with following characteristics:
 While it may sound simple to achieve as kachori is a snack which is available in every city of India. But with atta nowhere. The reason is simple because atta is not as elastic as maida.
 
 So how did we get this perfectly shaped kachori? Let's dive right into it.
+
+<video width="640" height="360" controls>
+  <source src="https://oldschoolfoods.in/assets/blog/How-to-make-atta-kachori-lr.mp4" type="video/mp4">
+ 
+  Your browser does not support the video tag.
+</video>

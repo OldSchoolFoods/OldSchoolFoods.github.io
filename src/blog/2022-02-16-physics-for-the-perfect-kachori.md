@@ -127,8 +127,6 @@ Since the desired shape is not inflated, the trapped steam must escape. 
 
 Now that we know the steam inside the mini kachoris needs an escape route, we found a simple hack. The only thing we need to do is puncture small holes in the mini kachoris before they are placed in hot ghee. We used a toothpick to do this. The holes act as vents and prevent enough steam from building up to cause them to burst. Since the holes are small and steam is constantly escaping, hot ghee has little chance of entering.
 
-![]()
-
 In light of the above explanation, we will return to the strong connection we made earlier, "Something that won't let a kachori inflate is something that works like a charm in the making of a mini kachori".
 
 Creating holes in the kachori before frying will prevent it from inflating but the same method saved mini kachori from bursting.

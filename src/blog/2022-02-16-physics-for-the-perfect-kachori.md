@@ -70,29 +70,57 @@ Some people would suggest using baking soda/powder for this but it won't do the 
 # Constraints
 
 1. It is evident that steam helps inflate the kachori but more moisture does not mean better kachori. 
+2. 1. A more moist dough becomes difficult to hold shape when wrapping masala and flattening it.
+   2. It might also create air pockets allowing the steam to escape while it is getting cooked and hence resulting in a flat kachori.
+   3. The moisture content in the dough should be sufficient to generate enough steam and enable a good wrapping.
+3. More Masala might not result in better kachori
+4. 1. Masala size larger than desired can result in creating a break in the dough again allowing steam to escape and unnecessarily flooding ghee inside the kachori.
+   2. Larger sized masala might also stick with itself and the dough, not allowing the kachori to inflate because of the stickiness.
+5. More heat resulting in more steam will not result in a better kachori
+6. 1. The function of heat is to generate steam and cooking kachori.
+   2. Too much heat will result in faster inflation of kachori but it will also brown it faster resulting in kachori that is cooked from the outside but not inside.
+   3. It might also lead to unnecessary heating of ghee resulting in degradation of ghee.
+7. Wet Masala (more moisture) will not result in a better kachori
+8. 1. Wet masala is difficult to wrap, resulting in breaks in the dough again allowing steam to escape and ghee flooding inside of the kachori.
+   2. Wet Masala will also make the inner layer of the kachori moist resulting in a kachori lacking crispiness.
+9. Improper sealing of the masala inside dough will result in poor kachori
+10. 1. Sealing if not done evenly will probably result thicker layers on one side which could also be left uncooked.
+    2. Improper sealing might result breaks in dough again allowing steam to escape and ghee flooding inside of the kachori.
+    3. Uneven sealing might leave a non-uniform texture on the kachori.
+11. If the edges are sharp, so will the kachori be, after it has risen.
 
 </div>
 
 <div>
 
-Now that we have an idea of how kachori becomes a good kachori, we can talk about the necessary physics and mathematics that goes to make a well shaped kachori
+# Conclusion
+
+Now that we have an idea of how kachori becomes a good kachori, we can talk about the necessary physics and mathematics that goes to make a well-shaped kachori
 
 Masala inside kachori should break itself into two parts one for the top layer and one for the bottom layer
 
-Steam generated at the bottom layer will help the upper layer inflate and when flipped vice versa. So the heavier side (if any, ideally no) should be at bottom first.
+Steam generated at the bottom layer will help the upper layer inflate and when flipped vice versa. So, when simmering, the heavier side (if any, ideally no) should be at the bottom first.
 
-The steam generated helps the upper layer rise and when flipped the other layer helps it rise so the heavier side at bottom first so that when it is flipped enough moisture is present in it to give rise
+This is because the heavier side when flipped, supports additional rise to the lighter side as it has  enough moisture present in it.
 
-Oil when poured on top generates steam on the top surface which is not exposed to the heated oil. This results in inflation
-
-If the edges are sharp, so will the kachori be after it has risen
+Ghee when poured on top generates steam on the top surface which is not exposed to the heated ghee. This results in inflation.
 
 </div>
 
 <div>
 
-Let us come to crafting mini kachoris now. Before we start off with the physics behind it, let us set a foundation by stating that- there's a strong connection between what works for mini kachoris is the exact opposite of what creates a barrier for kachoris.
+# Mini Kachoris 
 
-1. While making a kachori, we need the steam to be trapped inside when frying it so that the kachori can inflate and reach its desired form. and the same steam with mini kachoris bursts With mini kachoris, when the steam is trapped inside it needs a getaway and that's why it bursts out from the mini kachori causing it to break.
-2. What we understand by this is that the air inside the mini kachori needs an escape and we need to do something about the same. Therefore, before the mini kachori enters the hot ghee to be fried a few holes are poked into it with a toothpick for the air to pass while frying.
-3. This is an important step for making mini kachoris as this is what determines the final form of the mini kachori.
+Let us come to crafting a mini kachori. Before we start with the physics behind it, setting the foundation is important - what works against crafting a kachori, something that won't let a kachori inflate is something that works like a charm in the making of a mini kachori. We’ll come back to it.
+
+We thought mini kachori would be easy since all we have to do is wrap dough around masala, seal, and deep-fry. 
+
+A saucy filling contains more moisture and is more challenging to make with kachori since it requires few physical actions, such as filling, sealing, and flattening, but with mini kachori, it's just filling and sealing. 
+
+We have not been able to master saucy filling inside a kachori. This is because the filling leaks out from the dough while flattening, but with mini kachoris, we saw an opportunity to try.
+
+We still can't keep the moisture content too high (even with mini kachori) because wrapping dough around filling becomes a challenge.
+
+For a kachori to inflate and reach its desired shape, air needs to be trapped within the kachori. With the mini kachori, we had no idea what would happen, but the mini kachori with saucy filling exploded when frying. Imagine steam coming out of a pressure cooker.
+
+Since the desired shape is not inflated, the trapped steam must escape.

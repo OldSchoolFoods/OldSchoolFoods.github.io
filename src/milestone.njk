@@ -40,7 +40,7 @@ Featured Articles section #}
 <div class="section container" id="recent">
   <h1 class="section-title">Latest</h1>
   <ul role="list" class="articles__list flow">
-    {%- for post in collections.milestone.post | reverse -%}
+    {%- for post in milestone.post | reverse -%}
       <li>
         {% include 'article-snippet.njk' %}
       </li>

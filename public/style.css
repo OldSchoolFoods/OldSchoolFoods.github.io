@@ -50,7 +50,7 @@
     --fs-600: 2.25rem;
     --fs-700: 3rem;
   }
-  .beaut video {width: 100%;}
+  .beaut > video {width: 100%;}
 }
 
 /* //////////////////////
@@ -695,7 +695,7 @@ article li > p:last-child {
   font-size: var(--fs-400);
 }
 
-.beaut p, .beaut ul, .beaut ol, .beaut table, .beaut h3, .beaut h4, .beaut details, .beaut video {
+.beaut p, .beaut ul, .beaut ol, .beaut table, .beaut h3, .beaut h4, .beaut details, .beaut > video {
   margin-left: 15rem;
 }
 

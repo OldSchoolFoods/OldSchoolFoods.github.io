@@ -32,4 +32,4 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image"}
       - { label: "Image Caption", name: "imageAlt", widget: "string"}
       - { label: "Body", name: "body", widget: "markdown"}
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Tags", name: "tags", widget: "list", default: ["milestone"] }

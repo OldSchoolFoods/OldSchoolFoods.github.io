@@ -926,7 +926,7 @@ border-color: #bfbfbf;
 padding: .5em 1em;
 }
 @media screen and (max-width: 601px) {
-  .beaut video {width: 100%;}
+  .beaut video {width: 100%; margin-left: 0;}
 .tabcols tr:nth-child(2) {
 border-top: none;
 }

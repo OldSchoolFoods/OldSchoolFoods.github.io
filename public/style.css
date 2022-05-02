@@ -679,7 +679,7 @@ article li > p:last-child {
   border-top: 1px solid var(--clr-primary-300);
   position: sticky;
   -webkit-position: sticky;
-  top: 11.2rem;
+  top: 1rem;
   width: 14.5rem; z-index:5;
 }
 
@@ -690,7 +690,7 @@ article li > p:last-child {
   border-top: 1px solid var(--clr-neutral-300);
   position: sticky;
   -webkit-position: sticky;
-  top: 15.5rem;
+  top: 4rem;
   font-size: var(--fs-400);
 }
 
@@ -708,6 +708,7 @@ article li > p:last-child {
 }
 
 article .beaut div div p:first-child {margin-top: -1.25rem;}
+article .beaut div div li p:first-child {margin-top: 0;}
 
 article .beaut li > p {padding-bottom: 0.25rem;
     padding-top: 0.25rem; }
@@ -850,6 +851,7 @@ section.band .social img {height:1.5rem;}
 
   .beaut summary {padding:0.25rem 0;}
 .beaut table {width:99%;}
+
 
 /* .beaut td:first-child { color: #FB667A; } */
 }

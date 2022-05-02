@@ -32,11 +32,11 @@ So how did we get this perfectly shaped kachori? Let's dive right into it.
 
 </div>
 
-<div><video width="640" height="360" controls>
-  <source src="https://oldschoolfoods.in/assets/blog/How-to-make-atta-kachori-lr.mp4" type="video/mp4">
- 
-  Your browser does not support the video tag.
-</video></div>
+<div>
+
+
+
+</div>
 
 <div>
 

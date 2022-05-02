@@ -123,6 +123,16 @@ Let us come to crafting a mini kachori. Before we start with the physics behind 
 
 We thought mini kachori would be easy since all we have to do is wrap dough around masala, seal, and deep-fry. 
 
+</div>
+
+<div>
+
+![Rolling and Sealing mini kachori with masala inside](/assets/blog/mini-kachori-1.jpg "Rolling and Sealing mini kachori with masala inside")
+
+</div>
+
+<div>
+
 A saucy filling contains more moisture and is more challenging to make with kachori since it requires few physical actions, such as filling, sealing, and flattening, but with mini kachori, it's just filling and sealing. 
 
 We have not been able to master saucy filling inside a kachori. This is because the filling leaks out from the dough while flattening, but with mini kachoris, we saw an opportunity to try.
@@ -131,11 +141,41 @@ We still can't keep the moisture content too high (even with mini kachori) becau
 
 For a kachori to inflate and reach its desired shape, air needs to be trapped within the kachori. With the mini kachori, we had no idea what would happen, but the mini kachori with saucy filling exploded when frying. Imagine steam coming out of a pressure cooker.
 
+</div>
+
+<div>
+
+![Mini Kachori exploding because of steam](/assets/blog/mini-kachori-2-1-.jpg "Mini Kachori exploding because of steam")
+
+</div>
+
+<div>
+
 Since the desired shape is not inflated, the trapped steam must escape. 
 
 Now that we know the steam inside the mini kachoris needs an escape route, we found a simple hack. The only thing we need to do is puncture small holes in the mini kachoris before they are placed in hot ghee. We used a toothpick to do this. The holes act as vents and prevent enough steam from building up to cause them to burst. Since the holes are small and steam is constantly escaping, hot ghee has little chance of entering.
 
-![]()
+</div>
+
+<div>
+
+![Puncturing holes in mini kachori with toothpick](/assets/blog/mini-kachori-3.jpg "Puncturing holes in mini kachori with toothpick")
+
+</div>
+
+<div>
+
+![Puncturing holes in mini kachori using toothpick](/assets/blog/mini-kachori-3-1-.jpg "Puncturing holes in mini kachori using toothpick")
+
+</div>
+
+<div>
+
+![Steam escaping mini kachori from the holes](/assets/blog/mini-kachori-4.jpg "Steam escaping mini kachori from the holes")
+
+</div>
+
+<div>
 
 In light of the above explanation, we will return to the strong connection we made earlier, "Something that won't let a kachori inflate is something that works like a charm in the making of a mini kachori".
 

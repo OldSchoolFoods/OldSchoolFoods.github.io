@@ -694,7 +694,7 @@ article li > p:last-child {
   font-size: var(--fs-400);
 }
 
-.beaut p, .beaut ul, .beaut ol, .beaut table, .beaut h3, .beaut h4, .beaut details {
+.beaut p, .beaut ul, .beaut ol, .beaut table, .beaut h3, .beaut h4, .beaut details, .beaut video {
   margin-left: 15rem;
 }
 
@@ -924,6 +924,7 @@ border-color: #bfbfbf;
 padding: .5em 1em;
 }
 @media screen and (max-width: 601px) {
+  .beaut video {width: 100%;}
 .tabcols tr:nth-child(2) {
 border-top: none;
 }

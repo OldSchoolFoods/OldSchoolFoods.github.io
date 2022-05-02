@@ -694,7 +694,7 @@ article li > p:last-child {
   font-size: var(--fs-400);
 }
 
-.beaut p, .beaut ul, .beaut ol, .beaut table, .beaut h3, .beaut h4, .beaut details {
+.beaut p, .beaut ul, .beaut ol, .beaut table, .beaut h3, .beaut h4, .beaut details, .beaut video {
   margin-left: 15rem;
 }
 
@@ -851,6 +851,7 @@ section.band .social img {height:1.5rem;}
 
   .beaut summary {padding:0.25rem 0;}
 .beaut table {width:99%;}
+.beaut video {width: 100%;}
 
 /* .beaut td:first-child { color: #FB667A; } */
 }

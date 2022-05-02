@@ -32,6 +32,8 @@ So how did we get this perfectly shaped kachori? Let's dive right into it.
 
 </div>
 
+![]()
+
 <div>
 
 # Understanding

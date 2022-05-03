@@ -78,24 +78,37 @@ Some people would suggest using baking soda/powder for this but it won't do the 
 # Constraints
 
 1. It is evident that steam helps inflate the kachori but more moisture does not mean better kachori. 
-2. 1. A more moist dough becomes difficult to hold shape when wrapping masala and flattening it.
-   2. It might also create air pockets allowing the steam to escape while it is getting cooked and hence resulting in a flat kachori.
-   3. The moisture content in the dough should be sufficient to generate enough steam and enable a good wrapping.
-3. More Masala might not result in better kachori
-4. 1. Masala size larger than desired can result in creating a break in the dough again allowing steam to escape and unnecessarily flooding ghee inside the kachori.
-   2. Larger sized masala might also stick with itself and the dough, not allowing the kachori to inflate because of the stickiness.
-5. More heat resulting in more steam will not result in a better kachori
-6. 1. The function of heat is to generate steam and cooking kachori.
-   2. Too much heat will result in faster inflation of kachori but it will also brown it faster resulting in kachori that is cooked from the outside but not inside.
-   3. It might also lead to unnecessary heating of ghee resulting in degradation of ghee.
-7. Wet Masala (more moisture) will not result in a better kachori
-8. 1. Wet masala is difficult to wrap, resulting in breaks in the dough again allowing steam to escape and ghee flooding inside of the kachori.
-   2. Wet Masala will also make the inner layer of the kachori moist resulting in a kachori lacking crispiness.
-9. Improper sealing of the masala inside dough will result in poor kachori
-10. 1. Sealing if not done evenly will probably result thicker layers on one side which could also be left uncooked.
-    2. Improper sealing might result breaks in dough again allowing steam to escape and ghee flooding inside of the kachori.
-    3. Uneven sealing might leave a non-uniform texture on the kachori.
-11. If the edges are sharp, so will the kachori be, after it has risen.
+
+   a. A more moist dough becomes difficult to hold shape when wrapping masala and flattening it.
+
+   b. It might also create air pockets allowing the steam to escape while it is getting cooked and hence resulting in a flat kachori.
+
+   c. The moisture content in the dough should be sufficient to generate enough steam and enable a good wrapping.
+2. More Masala might not result in better kachori
+
+   a. Masala size larger than desired can result in creating a break in the dough again allowing steam to escape and unnecessarily flooding ghee inside the kachori.
+
+   b. Larger sized masala might also stick with itself and the dough, not allowing the kachori to inflate because of the stickiness.
+3. More heat resulting in more steam will not result in a better kachori
+
+   a. The function of heat is to generate steam and cooking kachori.
+
+   b. Too much heat will result in faster inflation of kachori but it will also brown it faster resulting in kachori that is cooked from the outside but not inside.
+
+   c. It might also lead to unnecessary heating of ghee resulting in degradation of ghee.
+4. Wet Masala (more moisture) will not result in a better kachori
+
+   a. Wet masala is difficult to wrap, resulting in breaks in the dough again allowing steam to escape and ghee flooding inside of the kachori.
+
+   b. Wet Masala will also make the inner layer of the kachori moist resulting in a kachori lacking crispiness.
+5. Improper sealing of the masala inside dough will result in poor kachori
+
+   a. Sealing if not done evenly will probably result thicker layers on one side which could also be left uncooked.
+
+   b. Improper sealing might result breaks in dough again allowing steam to escape and ghee flooding inside of the kachori.
+
+   c. Uneven sealing might leave a non-uniform texture on the kachori.
+6. If the edges are sharp, so will the kachori be, after it has risen.
 
 </div>
 
@@ -186,6 +199,14 @@ Creating holes in the kachori before frying will prevent it from inflating but t
 <div>
 
 # Conclusion
+
+While we may talk about all the technical details of inflating the kachori, the highlight of this blog is still, the video animation towards the start of this article.
+
+Immense effort has gone into creating this in-house.
+300 frames, 24 shots were created and then stitched together using an AI processing tool to create this piece of art rather a masterpiece.
+This is an output by our brilliant team. All thanks to Ritika (https://instagram.com/kaotic_kumari?igshid=YmMyMTA2M2Y=) and Deepa (https://zeroninefivefour.biz/work/) without whom this would have just stayed an imagination.
+Where there is will there is a way.
+Be it this animation or kachoris with atta :)
 
 Here we conclude the physics that helped us create right-shaped kachoris with new flavors. If you liked our approach, please give us a thumbs up at
 

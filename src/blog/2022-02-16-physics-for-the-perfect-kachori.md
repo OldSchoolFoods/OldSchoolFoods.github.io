@@ -204,7 +204,7 @@ While we may talk about all the technical details of inflating the kachori, the 
 
 Immense effort has gone into creating this in-house.
 300 frames, 24 shots were created and then stitched together using an AI processing tool to create this piece of art rather a masterpiece.
-This is an output by our brilliant team. All thanks to Ritika (Hyperlink your profile page) and Deepa (https://zeroninefivefour.biz/work/) without whom this would have just stayed an imagination.
+This is an output by our brilliant team. All thanks to Ritika (https://instagram.com/kaotic_kumari?igshid=YmMyMTA2M2Y=) and Deepa (https://zeroninefivefour.biz/work/) without whom this would have just stayed an imagination.
 Where there is will there is a way.
 Be it this animation or kachoris with atta :)
 

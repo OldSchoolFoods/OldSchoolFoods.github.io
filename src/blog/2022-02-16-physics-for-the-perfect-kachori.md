@@ -22,7 +22,7 @@ Immense effort has gone into creating this in-house.
 
 **This is an output by our brilliant team.** 
 
-All thanks to Ritika- https://instagram.com/kaotic_kumari?igshid=YmMyMTA2M2Y= and Deepa- https://zeroninefivefour.biz/work/ without whom this would have just stayed an imagination.
+All thanks to [Ritika](<https://instagram.com/kaotic_kumari?igshid=YmMyMTA2M2Y=>) and [Deepa](https://zeroninefivefour.biz/work/) without whom this would have just stayed an imagination.
 Where there is will there is a way.
 Be it this animation or kachoris with atta :)
 

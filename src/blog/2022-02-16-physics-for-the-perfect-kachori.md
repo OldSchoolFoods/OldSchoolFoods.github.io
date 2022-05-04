@@ -42,6 +42,20 @@ So how did we get this perfectly shaped kachori? Let's dive right into it.
 
 <div>
 
+# Acknowledgements
+
+While we may talk about all the technical details of inflating the kachori, the highlight of this blog is still, the video animation towards the start of this article.
+
+Immense effort has gone into creating this in-house.
+300 frames, 24 shots were created and then stitched together using an AI processing tool to create this piece of art rather a masterpiece.
+This is an output by our brilliant team. All thanks to Ritika- https://instagram.com/kaotic_kumari?igshid=YmMyMTA2M2Y= and Deepa- https://zeroninefivefour.biz/work/ without whom this would have just stayed an imagination.
+Where there is will there is a way.
+Be it this animation or kachoris with atta :)
+
+</div>
+
+<div>
+
 # Understanding
 
 Why are we publishing this study is because when we started, we had a hard time figuring out the right shape and texture of kachoris with ‘zero maida’ and we hardly found any educational material around what goes behind fluffing a kachori up.
@@ -200,14 +214,8 @@ Creating holes in the kachori before frying will prevent it from inflating but t
 
 # Conclusion
 
-While we may talk about all the technical details of inflating the kachori, the highlight of this blog is still, the video animation towards the start of this article.
-
-Immense effort has gone into creating this in-house.
-300 frames, 24 shots were created and then stitched together using an AI processing tool to create this piece of art rather a masterpiece.
-This is an output by our brilliant team. All thanks to Ritika (https://instagram.com/kaotic_kumari?igshid=YmMyMTA2M2Y=) and Deepa (https://zeroninefivefour.biz/work/) without whom this would have just stayed an imagination.
-Where there is will there is a way.
-Be it this animation or kachoris with atta :)
-
 Here we conclude the physics that helped us create right-shaped kachoris with new flavors. If you liked our approach, please give us a thumbs up at
 
 [contact@oldschoolfoods.in](mailto:contact@oldschoolfoods.in)
+
+</div>

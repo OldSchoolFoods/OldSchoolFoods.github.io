@@ -22,7 +22,7 @@ Immense effort has gone into creating this in-house.
 
 **This is an output by our brilliant team.** 
 
-All thanks to [Ritika](<https://instagram.com/kaotic_kumari?igshid=YmMyMTA2M2Y=>) and [Deepa](https://zeroninefivefour.biz/work/) without whom this would have just stayed an imagination.
+All thanks to [Ritika](https://instagram.com/kaotic_kumari?igshid=YmMyMTA2M2Y=) and [Deepa](https://zeroninefivefour.biz/work/) without whom this would have just stayed an imagination.
 Where there is will there is a way.
 Be it this animation or kachoris with atta :)
 
@@ -45,7 +45,7 @@ We want to achieve a Kachori with the following characteristics:
 
 While it may sound simple to achieve as kachori is a snack that is available in every city of India. But with atta nowhere. 
 
-###### **The reason is simple, atta is not as elastic as maida.**
+***The reason is simple, atta is not as elastic as maida.***
 
 So how did we get this perfectly shaped kachori? Let's dive right into it.
 

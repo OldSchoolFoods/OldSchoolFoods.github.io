@@ -49,16 +49,13 @@ While it may sound simple to achieve as kachori is a snack that is available in 
 
 So how did we get this perfectly shaped kachori? Let's dive right into it.
 
-</div>
-
-<div>
 <video width="640" height="360" controls poster="https://oldschoolfoods.in/assets/blog/how-to-poster.png">
   <source src="https://oldschoolfoods.in/assets/blog/How-to-make-atta-kachori-lr.mp4" type="video/mp4">
  
   Your browser does not support the video tag.
 </video>
-</div>
 
+</div>
 <div>
 
 # Understanding
@@ -196,5 +193,5 @@ In light of the above explanation, we will return to the strong connection we ma
 
 Here we conclude the physics that helped us create right-shaped kachoris with new flavors. If you liked our approach, please give us a thumbs up at [contact@oldschoolfoods.in](mailto:contact@oldschoolfoods.in)
 
-<hr>
+
 

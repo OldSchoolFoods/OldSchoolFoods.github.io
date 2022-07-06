@@ -194,7 +194,7 @@ In light of the above explanation, we will return to the strong connection we ma
 
 # Conclusion
 
-Here we conclude the physics that helped us create right-shaped kachoris with new flavors. If you liked our approach, please give us a thumbs up at
+Here we conclude the physics that helped us create right-shaped kachoris with new flavors. If you liked our approach, please give us a thumbs up at [contact@oldschoolfoods.in](mailto:contact@oldschoolfoods.in)
 
-[contact@oldschoolfoods.in](mailto:contact@oldschoolfoods.in)
+<hr>
 

@@ -55,7 +55,7 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
       For our purpose, we have understood we want to limit our usage within the GH5 - GH9 Stage based on sight, and smell, taste, and touch.
 4. **Regular cleaning**
 
-   ![](/assets/blog/04-ghee-cleaning-mechanism.png)
+   ![](/assets/blog/04-ghee-cleaning-mechanism.png "Ghee Cleaning Mechanism")
 
    1. To start with, we developed an in-house filter mechanism to clean the ghee via the sedimentation process. Heavier particles settle down and filtered ghee remains at the top. However, this is a time-consuming process.
    2. This process filters heavy particles but still allows smaller particles to go through

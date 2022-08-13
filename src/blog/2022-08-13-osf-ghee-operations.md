@@ -73,6 +73,8 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
    5. There are few antioxidants in the market like BHA and BHT which [may](https://www.livescience.com/36424-food-additive-bha-butylated-hydroxyanisole.html) be [hazardous](https://www.thoughtco.com/bha-and-bht-food-preservatives-607393) to health. We are exploring a health-safe [solution](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.13526) which is [natural](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4348291/) antioxidants.
 6. **Using only the required amount of ghee**
 
+   ![](/assets/blog/06-using-adequate-amount-of-ghee.png "Excess ")
+
    1. We need less ghee to fry 2 kachoris than what we need for 4 kachoris
    2. Very simple, just remove excess ghee from kadhai over what is needed
    3. The excess ghee can be used when preparing a larger order

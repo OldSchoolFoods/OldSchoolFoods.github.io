@@ -63,7 +63,7 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
 
 ![](/assets/blog/02-result-vs-combination-of-heat-and-moisture.png "Optimum Frying Conditions for Kachori")
 
-1. When we started out the study for oils, we found there are at least 19 factors that affect the uptake of oil. The most basic ones, frying temperature and moisture content in the item. High temperature reduces oil uptake whereas high moisture content increases oil uptake.
+1. When we started out the study for oils, we found there are at least [19 factors](https://pastel.archives-ouvertes.fr/pastel-00003693/en/) that affect the uptake of oil. The most basic ones, frying temperature and moisture content in the item. High temperature reduces oil uptake whereas high moisture content increases oil uptake.
 2. If we cook kachoris entirely at high temperatures, then kachoris will be left uncooked.
 3. If we keep moisture content too high in the dough, more water will escape while frying, allowing more oil to enter.
 4. So, a combination of the above factors results in the most optimum uptake of ghee
@@ -156,3 +156,19 @@ by which we mean treasure resource. \
 We have to be extremely careful with its usage, try not to waste any, and savor the rich Indian Tradition.
 
 </div>
+
+### **REFERENCES**
+
+https://oldschoolfoods.in/blog/2021-09-02-oil-study/
+
+https://pastel.archives-ouvertes.fr/pastel-00003693/en/
+
+https://www.livescience.com/36424-food-additive-bha-butylated-hydroxyanisole.html
+
+https://www.thoughtco.com/bha-and-bht-food-preservatives-607393
+
+https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.13526
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4348291/
+
+https://www.youtube.com/watch?v=1dIEqBKc7rg

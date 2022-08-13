@@ -159,16 +159,16 @@ We have to be extremely careful with its usage, try not to waste any, and savor 
 
 ### **REFERENCES**
 
-https://oldschoolfoods.in/blog/2021-09-02-oil-study/
+<https://oldschoolfoods.in/blog/2021-09-02-oil-study/>
 
-https://pastel.archives-ouvertes.fr/pastel-00003693/en/
+<https://pastel.archives-ouvertes.fr/pastel-00003693/en/>
 
-https://www.livescience.com/36424-food-additive-bha-butylated-hydroxyanisole.html
+<https://www.livescience.com/36424-food-additive-bha-butylated-hydroxyanisole.html>
 
-https://www.thoughtco.com/bha-and-bht-food-preservatives-607393
+<https://www.thoughtco.com/bha-and-bht-food-preservatives-607393>
 
-https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.13526
+<https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.13526>
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4348291/
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4348291/>
 
-https://www.youtube.com/watch?v=1dIEqBKc7rg
+<https://www.youtube.com/watch?v=1dIEqBKc7rg>

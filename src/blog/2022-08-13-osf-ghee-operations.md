@@ -52,10 +52,10 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
    2. We took test tube samples after each frying for sight, smell, and touch test
    3. Also, we took small bits of dough fried in that heat cycle for taste test\
       \
-      This is how the results look like\
-      \
       For our purpose, we have understood we want to limit our usage within the GH5 - GH9 Stage based on sight, and smell, taste, and touch.
 4. **Regular cleaning**
+
+   ![](/assets/blog/04-ghee-cleaning-mechanism.png)
 
    1. To start with, we developed an in-house filter mechanism to clean the ghee via the sedimentation process. Heavier particles settle down and filtered ghee remains at the top. However, this is a time-consuming process.
    2. This process filters heavy particles but still allows smaller particles to go through

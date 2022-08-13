@@ -83,9 +83,13 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 
 1. Our average heat cycle is for 30-40 mins
 2. We took test tube samples after each frying for sight, smell, and touch test
-3. Also, we took small bits of dough fried in that heat cycle for taste test\
-   \
-   For our purpose, we have understood we want to limit our usage within the GH5 - GH9 Stage based on sight, and smell, taste, and touch.
+3. Also, we took small bits of dough fried in that heat cycle for taste test
+
+</div>
+
+<div>
+
+For our purpose, we have understood we want to limit our usage within GH5 - GH9 Stage based on sight, smell, taste and touch.
 
 </div>
 
@@ -140,6 +144,10 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 3. The excess ghee can be used when preparing a larger order
 4. This is quite effective\
    Ghee used once + Ghee used twice > Ghee used twice
+
+</div>
+
+<div>
 
 All of the above understanding and mechanisms help us use \
 ***Ghee like ‘Amrit’*** \

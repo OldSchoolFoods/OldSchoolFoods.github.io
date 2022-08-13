@@ -37,12 +37,16 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
    3. We have a benchmark consumption scale and we try to contain our consumption within that range
 2. **Optimal frying of kachoris**
 
+   ![](/assets/blog/02-result-vs-combination-of-heat-and-moisture.png "Optimum Frying Conditions for Kachori")
+
    1. When we started out the study for oils, we found there are at least 19 factors that affect the uptake of oil. The most basic ones, frying temperature and moisture content in the item. High temperature reduces oil uptake whereas high moisture content increases oil uptake.
    2. If we cook kachoris entirely at high temperatures, then kachoris will be left uncooked.
    3. If we keep moisture content too high in the dough, more water will escape while frying, allowing more oil to enter.
    4. So, a combination of the above factors results in the most optimum uptake of ghee
 3. **Study of heat cycles**\
    We started with a simple question. If one kachori absorbs 10 gm ghee while frying, how many kachoris can we fry in 1kg of Ghee? It might be the case, by the time we reach 80 kachoris, the ghee turns bad and is not usable and 200 gm of ghee is wasted. We do not know clearly what that number is also because it depends on the count of heat cycles executed to reach 80 kachoris. To start with we need to know the progression of heat cycles for our use case.
+
+   ![](/assets/blog/03-heat-cycles.png "Test tube samples of Ghee post heat cycles")
 
    1. Our average heat cycle is for 30-40 mins
    2. We took test tube samples after each frying for sight, smell, and touch test

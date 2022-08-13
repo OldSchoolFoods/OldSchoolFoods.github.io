@@ -64,6 +64,8 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
    5. Hence we came up with kaizen that allows easy cleaning frequently.
 5. **Avoiding unnecessary oxidation**
 
+   ![](/assets/blog/05-unnecessary-oxidation-of-ghee.png "Ghee degrades gradually under oxidation")
+
    1. Ghee degrades when put under oxidation. It's like the aging of ghee.
    2. Covering ghee when not in use is a simple method to protect idle ghee.
    3. Unnecessary heating of ghee should also be avoided

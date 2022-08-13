@@ -28,7 +28,8 @@ Ghee is ~3x more expensive than usual oils. But who cares, it fills our kitchen 
 
 Wrong ! Cost is of extreme importance to the business. To control costs we have to think of ways to effectively utilize ghee and avoid wastage of ghee.
 
-> ## *Wastage is a bad cost. Effective utilization is a good investment.*
+> # ***Wastage is a bad cost.*** \
+> ***Effective utilization is a good investment.***
 
 </div>
 

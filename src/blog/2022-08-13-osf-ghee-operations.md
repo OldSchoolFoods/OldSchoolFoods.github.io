@@ -38,11 +38,11 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
 
 ### **I. Tracking Daily usage of Ghee**
 
-1. ![](/assets/blog/01-ghee-tracking.png "Ghee Tracking Mechanism")
+![](/assets/blog/01-ghee-tracking.png "Ghee Tracking Mechanism")
 
-   1. We have defined a simple mechanism to track ghee usage. We start a session on ghee by measuring the amount of ghee taken on a particular day, noting whatever has been fried in it and closing the session by taking the final weight.
-   2. This way, we know the average consumption of ghee per item.
-   3. We have a benchmark consumption scale and we try to contain our consumption within that range
+1. We have defined a simple mechanism to track ghee usage. We start a session on ghee by measuring the amount of ghee taken on a particular day, noting whatever has been fried in it and closing the session by taking the final weight.
+2. This way, we know the average consumption of ghee per item.
+3. We have a benchmark consumption scale and we try to contain our consumption within that range
 
 ### **II. Optimal frying of kachoris**
 

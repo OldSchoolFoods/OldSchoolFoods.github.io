@@ -29,6 +29,7 @@ Ghee is ~3x more expensive than usual oils. But who cares, it fills our kitchen 
 Wrong ! Cost is of extreme importance to the business. To control costs we have to think of ways to effectively utilize ghee and avoid wastage of ghee.
 
 > # ***Wastage is a bad cost.*** \
+>
 > ***Effective utilization is a good investment.***
 
 </div>
@@ -112,8 +113,9 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 4. This is quite effective\
    Ghee used once + Ghee used twice > Ghee used twice
 
-All of the above understanding and mechanisms help us \
-use ***Ghee like ‘Amrit’*** by which we mean treasure resource. \
+All of the above understanding and mechanisms help us use \
+***Ghee like ‘Amrit’*** \
+by which we mean treasure resource. \
 We have to be extremely careful with its usage, try not to waste any, and savor the rich Indian Tradition.
 
 </div>

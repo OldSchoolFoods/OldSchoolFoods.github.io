@@ -38,7 +38,15 @@ Wrong ! Cost is of extreme importance to the business. To control costs we have 
 
 Below is a detailed explanation of how we can effectively utilize ghee mechanisms to ensure the longevity of ghee as fuel:
 
+</div>
+
+<div>
+
 ### **I. Tracking Daily usage of Ghee**
+
+</div>
+
+<div>
 
 ![](/assets/blog/01-ghee-tracking.png "Ghee Tracking Mechanism")
 
@@ -47,6 +55,10 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
 3. We have a benchmark consumption scale and we try to contain our consumption within that range
 
 ### **II. Optimal frying of kachoris**
+
+</div>
+
+<div>
 
 ![](/assets/blog/02-result-vs-combination-of-heat-and-moisture.png "Optimum Frying Conditions for Kachori")
 
@@ -60,6 +72,10 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
 <div>
 
 ### **III. Study of heat cycles**
+
+</div>
+
+<div>
 
 We started with a simple question. If one kachori absorbs 10 gm ghee while frying, how many kachoris can we fry in 1kg of Ghee? It might be the case, by the time we reach 80 kachoris, the ghee turns bad and is not usable and 200 gm of ghee is wasted. We do not know clearly what that number is also because it depends on the count of heat cycles executed to reach 80 kachoris. To start with we need to know the progression of heat cycles for our use case.
 
@@ -77,6 +93,10 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 
 ### **IV. Regular cleaning**
 
+</div>
+
+<div>
+
 ![](/assets/blog/04-ghee-cleaning-mechanism.png "Ghee Cleaning Mechanism")
 
 1. To start with, we developed an in-house filter mechanism to clean the ghee via the sedimentation process. Heavier particles settle down and filtered ghee remains at the top. However, this is a time-consuming process.
@@ -91,6 +111,10 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 
 ### **V. Avoiding unnecessary oxidation**
 
+</div>
+
+<div>
+
 ![](/assets/blog/05-unnecessary-oxidation-of-ghee.png "Ghee degrades gradually under oxidation")
 
 1. Ghee degrades when put under oxidation. It's like the aging of ghee.
@@ -104,6 +128,10 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 <div>
 
 ### **VI. Using only the required amount of ghee**
+
+</div>
+
+<div>
 
 ![](/assets/blog/06b-using-adequate-amount-of-ghee.png "Excess Ghee taken out of heat cycle")
 

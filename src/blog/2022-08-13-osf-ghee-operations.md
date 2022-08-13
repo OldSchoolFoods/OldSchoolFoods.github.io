@@ -51,7 +51,15 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
 ![](/assets/blog/01-ghee-tracking.png "Ghee Tracking Mechanism")
 
 1. We have defined a simple mechanism to track ghee usage. We start a session on ghee by measuring the amount of ghee taken on a particular day, noting whatever has been fried in it and closing the session by taking the final weight.
+
+   </div>
+
+   <div>
 2. This way, we know the average consumption of ghee per item.
+
+   </div>
+
+   <div>
 3. We have a benchmark consumption scale and we try to contain our consumption within that range
 
 ### **II. Optimal frying of kachoris**
@@ -63,8 +71,20 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
 ![](/assets/blog/02-result-vs-combination-of-heat-and-moisture.png "Optimum Frying Conditions for Kachori")
 
 1. When we started out the study for oils, we found there are at least 19 factors that affect the uptake of oil. The most basic ones, frying temperature and moisture content in the item. High temperature reduces oil uptake whereas high moisture content increases oil uptake.
+
+   </div>
+
+   <div>
 2. If we cook kachoris entirely at high temperatures, then kachoris will be left uncooked.
+
+   </div>
+
+   <div>
 3. If we keep moisture content too high in the dough, more water will escape while frying, allowing more oil to enter.
+
+   </div>
+
+   <div>
 4. So, a combination of the above factors results in the most optimum uptake of ghee
 
 </div>
@@ -82,10 +102,22 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 ![](/assets/blog/03-heat-cycles.png "Test tube samples of Ghee post heat cycles")
 
 1. Our average heat cycle is for 30-40 mins
+
+   </div>
+
+   <div>
 2. We took test tube samples after each frying for sight, smell, and touch test
-3. Also, we took small bits of dough fried in that heat cycle for taste test\
-   \
-   For our purpose, we have understood we want to limit our usage within the GH5 - GH9 Stage based on sight, and smell, taste, and touch.
+
+   </div>
+
+   <div>
+3. Also, we took small bits of dough fried in that heat cycle for taste test
+
+</div>
+
+<div>
+
+For our purpose, we have understood we want to limit our usage within GH5 - GH9 Stage based on sight, smell, taste and touch.
 
 </div>
 
@@ -100,9 +132,25 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 ![](/assets/blog/04-ghee-cleaning-mechanism.png "Ghee Cleaning Mechanism")
 
 1. To start with, we developed an in-house filter mechanism to clean the ghee via the sedimentation process. Heavier particles settle down and filtered ghee remains at the top. However, this is a time-consuming process.
+
+   </div>
+
+   <div>
 2. This process filters heavy particles but still allows smaller particles to go through
+
+   </div>
+
+   <div>
 3. We attached a muslin cloth at the top to capture smaller particles there itself
+
+   </div>
+
+   <div>
 4. There should be a mechanism to frequently clean ghee post frying sessions so that dust is captured immediately and doesn't stay until the filter process is applied
+
+   </div>
+
+   <div>
 5. Hence we came up with kaizen that allows easy cleaning frequently.
 
 </div>
@@ -118,9 +166,25 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 ![](/assets/blog/05-unnecessary-oxidation-of-ghee.png "Ghee degrades gradually under oxidation")
 
 1. Ghee degrades when put under oxidation. It's like the aging of ghee.
+
+   </div>
+
+   <div>
 2. Covering ghee when not in use is a simple method to protect idle ghee.
+
+   </div>
+
+   <div>
 3. Unnecessary heating of ghee should also be avoided
+
+   </div>
+
+   <div>
 4. Allowing frying sediments to stay in kadhai while heating degrades ghee further
+
+   </div>
+
+   <div>
 5. There are few antioxidants in the market like BHA and BHT which [may](https://www.livescience.com/36424-food-additive-bha-butylated-hydroxyanisole.html) be [hazardous](https://www.thoughtco.com/bha-and-bht-food-preservatives-607393) to health. We are exploring a health-safe [solution](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.13526) which is [natural](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4348291/) antioxidants.
 
 </div>
@@ -136,10 +200,26 @@ We started with a simple question. If one kachori absorbs 10 gm ghee while fryin
 ![](/assets/blog/06b-using-adequate-amount-of-ghee.png "Excess Ghee taken out of heat cycle")
 
 1. We need less ghee to fry 2 kachoris than what we need for 4 kachoris
+
+   </div>
+
+   <div>
 2. Very simple, just remove excess ghee from kadhai over what is needed
+
+   </div>
+
+   <div>
 3. The excess ghee can be used when preparing a larger order
+
+   </div>
+
+   <div>
 4. This is quite effective\
    Ghee used once + Ghee used twice > Ghee used twice
+
+</div>
+
+<div>
 
 All of the above understanding and mechanisms help us use \
 ***Ghee like ‘Amrit’*** \

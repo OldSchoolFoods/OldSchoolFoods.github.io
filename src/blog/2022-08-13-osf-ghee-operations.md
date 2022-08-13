@@ -28,49 +28,49 @@ Wrong ! Cost is of extreme importance to the business. To control costs we have 
 
 Below is a detailed explanation of how we can effectively utilize ghee mechanisms to ensure the longevity of ghee as fuel:
 
-1. Tracking Daily usage of Ghee
+1. **Tracking Daily usage of Ghee**
 
-   1. We have defined a simple mechanism to track ghee usage. We start a session of ghee by measuring the amount of ghee taken on a particular day, noting whatever has been fried in it and closing the session by taking the final weight.
+   ![](/assets/blog/01-ghee-tracking.png "Ghee Tracking Mechanism")
+
+   1. We have defined a simple mechanism to track ghee usage. We start a session on ghee by measuring the amount of ghee taken on a particular day, noting whatever has been fried in it, and closing the session by taking the final weight.
    2. This way, we know the average consumption of ghee per item.
    3. We have a benchmark consumption scale and we try to contain our consumption within that range
-2. Optimal frying of kachoris
+2. **Optimal frying of kachoris**
 
-   1. When we started out the study for oils, we found there are at least 19 factors which affect uptake of oil. The most basic ones, frying temperature and moisture content in the item. High temperature reduces oil uptake whereas high moisture content increases oil uptake.
+   1. When we started out the study for oils, we found there are at least 19 factors that affect the uptake of oil. The most basic ones, frying temperature and moisture content in the item. High temperature reduces oil uptake whereas high moisture content increases oil uptake.
    2. If we cook kachoris entirely at high temperatures, then kachoris will be left uncooked.
    3. If we keep moisture content too high in the dough, more water will escape while frying, allowing more oil to enter.
-   4. So, a combination of above factors results in the most optimum uptake of ghee
-3. Study of heat cycles\
+   4. So, a combination of the above factors results in the most optimum uptake of ghee
+3. **Study of heat cycles**\
    We started with a simple question. If one kachori absorbs 10 gm ghee while frying, how many kachoris can we fry in 1kg of Ghee? It might be the case, by the time we reach 80 kachoris, the ghee turns bad and is not usable and 200 gm of ghee is wasted. We do not know clearly what that number is also because it depends on the count of heat cycles executed to reach 80 kachoris. To start with we need to know the progression of heat cycles for our use case.
 
    1. Our average heat cycle is for 30-40 mins
-   2. We took test tube samples after each frying for sight, smell and touch test
+   2. We took test tube samples after each frying for sight, smell, and touch test
    3. Also, we took small bits of dough fried in that heat cycle for taste test\
       \
       This is how the results look like\
       \
-      For our purpose, we have understood we want to limit our usage within GH5 - GH9 Stage based on sight, smell, taste and touch.
-4. Regular cleaning
+      For our purpose, we have understood we want to limit our usage within the GH5 - GH9 Stage based on sight, and smell, taste, and touch.
+4. **Regular cleaning**
 
    1. To start with, we developed an in-house filter mechanism to clean the ghee via the sedimentation process. Heavier particles settle down and filtered ghee remains at the top. However, this is a time-consuming process.
    2. This process filters heavy particles but still allows smaller particles to go through
    3. We attached a muslin cloth at the top to capture smaller particles there itself
    4. There should be a mechanism to frequently clean ghee post frying sessions so that dust is captured immediately and doesn't stay until the filter process is applied
    5. Hence we came up with kaizen that allows easy cleaning frequently.
-5. Avoiding unnecessary oxidation
+5. **Avoiding unnecessary oxidation**
 
    1. Ghee degrades when put under oxidation. It's like the aging of ghee.
    2. Covering ghee when not in use is a simple method to protect idle ghee.
    3. Unnecessary heating of ghee should also be avoided
    4. Allowing frying sediments to stay in kadhai while heating degrades ghee further
    5. There are few antioxidants in the market like BHA and BHT which [may](https://www.livescience.com/36424-food-additive-bha-butylated-hydroxyanisole.html) be [hazardous](https://www.thoughtco.com/bha-and-bht-food-preservatives-607393) to health. We are exploring a health-safe [solution](https://ifst.onlinelibrary.wiley.com/doi/10.1111/ijfs.13526) which is [natural](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4348291/) antioxidants.
-6. Using only required amount of ghee
+6. **Using only the required amount of ghee**
 
    1. We need less ghee to fry 2 kachoris than what we need for 4 kachoris
    2. Very simple, just remove excess ghee from kadhai over what is needed
    3. The excess ghee can be used when preparing a larger order
    4. This is quite effective\
       Ghee used once + Ghee used twice > Ghee used twice
-
-
 
 All of the above understanding and mechanisms help us use Ghee like ‘Amrit’ by which we mean treasure resource. We have to be extremely careful with its usage, try not to waste any, and savor the rich Indian Tradition.

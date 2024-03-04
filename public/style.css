@@ -386,9 +386,9 @@ p {
   padding-top: 2rem;
 }
 
-.trade {
+.trade, .orders {
   grid-column: 5/6;
-  align-self: flex-start;
+  /* align-self: flex-start; */
   align-content: center;
   height: 8rem;
   width: 8rem;
@@ -424,11 +424,11 @@ section.band.white, section.band.white .trade h2 {
   color: var(--clr-primary-600);
 }
 
-section.band .trade a {
+section.band .trade a, section.band .orders a  {
   color: var(--clr-neutral-100);
 }
 
-section.band .trade a:hover {
+section.band .trade a:hover, section.band .orders a:hover  {
   color: var(--clr-primary-500);
 }
 

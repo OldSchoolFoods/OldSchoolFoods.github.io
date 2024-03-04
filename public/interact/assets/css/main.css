@@ -75,26 +75,54 @@ grid-template-rows: 9rem 3rem auto;border: 3px solid #8C4B38;min-height: 100vh;a
   color: var(--clr-light);
   font-weight: 500;
   background: var(--clr-primary);
+  justify-content: space-between;
+}
+.intro div {
+  display: flex;
+}
+.intro img {
+  padding:0.5rem;
 }
 
 section h1{margin-bottom: 1rem;}
+.logo-hdr {height:8rem; width:auto;}
 .cols {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(20rem, 100%), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(18rem, 100%), 1fr));
   align-items: start; grid-gap: 1.25rem; border-bottom: 1px solid var(--clr-primary);
 }
 
+.twice {
+  grid-column: 1/3;
+}
+.twice img {
+  width: 100%;
+}
 .cols>div {
   padding-bottom: 1rem;
 }
-.colinfo {display: grid;
-    grid-template-columns: 1fr 3fr;
-    grid-template-rows: 2.5rem 1fr;
+.colinfo {display: flex; 
+    /* grid-template-columns: 1fr 3fr;
+    grid-template-rows: 2.5rem 1fr; */
     align-items: center; grid-gap:1rem;}
 
-    .colicon {    grid-row: 1/3;
-    min-height: 3rem;max-height: 3.5rem;
-    align-self: start;
-    padding-top: 0.25rem;
-    min-width: 2.5rem;
-    justify-self: center;}
+    .colicon {    
+      grid-row: 1/3;
+      align-self: center;
+      padding-top: 0.25rem;
+      justify-self: center;
+    }
+
+.onlineo img, .colicon  {min-width: 2rem;min-height: 2rem;max-height: 3rem;}    
+
+    .colist {
+      display: flex;
+      flex-direction: column;
+    }
+    .colist > div{
+      display: flex;
+    }
+    .colist a { padding:1rem 0;}
+    .colist a em  {
+      font-size: 80%;
+  }

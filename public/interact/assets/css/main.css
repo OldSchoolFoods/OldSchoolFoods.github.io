@@ -117,10 +117,12 @@ section h1{margin-bottom: 1rem;}
 
 .onlineo img, .colicon  {min-width: 2rem;min-height: 2rem;max-height: 3rem;}    
 
-    .colist {
-      display: flex;
-      flex-direction: column;
-    }
+.colist {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  margin: 0 auto;
+}
     .colist > div{
       display: flex;
     }

@@ -1,0 +1,73 @@
+{
+  "footerLogo": "/assets/images/OSF-logo.svg",
+
+  "contactsHeading": "Contact Info",
+  "contactsInfo":[
+   
+    {
+      "link":"tel:8826000547",
+      "text":"8826000547",
+      "labels":"Contact: "
+    },
+    
+    {
+      "link":"mailto:contact@oldschoolfoods.in",
+      "text":"contact@oldschoolfoods.in",
+      "labels":"Email: "
+    }
+  ],
+
+  "siteMapHeading":"Sitemap",
+  "siteMap":[
+    {
+      "link":"about",
+      "text":"About OSF"
+    },
+    {
+      "link":"#brand",
+      "text":"Brand Basket"
+    },
+    {
+      "link":"#clientele",
+      "text":"Clientele"
+    },
+    {
+      "link":"#stay",
+      "text":"Executive Stay"
+    },
+    {
+      "link":"interact/index.html",
+      "text":"Interact"
+    }
+  ],
+
+  "socialHeading":"Social Media",
+  "socialMedia":[
+    {
+      "icon":"/assets/images/icon-fb.svg",
+      "link":"https://www.facebook.com/Old-School-Foods-113888357612020",
+      "text":"Facebook"
+    },
+    {
+      "icon":"/assets/images/icon-wapp.svg",
+      "link":"https://wa.me/message/3KVST7Z2IZECK1",
+      "text":"Whatsapp"
+    },
+    {
+      "icon":"/assets/images/icon-linkd.svg",
+      "link":"https://www.linkedin.com/company/old-school-foods/",
+      "text":"LinkedIn"
+    },
+    {
+      "icon":"/assets/images/icon-insta.svg",
+      "link":"https://www.instagram.com/oldschoolfoods.official",
+      "text":"Instagram"
+    }
+  ],
+  
+  "brandHeading":"Food We Respect is        Food We Serve",
+  "brandMotto":["Traditional snacks","Fasting 'vrat' food","Party boxes","Corporate food services"],
+
+  "back2topIcon":"/assets/images/to-top.svg",
+  "customerComment":"I want to visit again"
+}

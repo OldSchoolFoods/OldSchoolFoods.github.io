@@ -1,0 +1,16 @@
+{
+    "cclients":[
+  {
+    "name": "Catering for corporate clientele",
+    "image": "/assets/images/clients/mainsite_corp1.png"
+  },
+  {
+    "name": "Catering for corporate clientele",
+    "image": "/assets/images/clients/mainsite_corp2.png"
+  },
+  {
+    "name": "Catering for corporate clientele",
+    "image": "/assets/images/clients/mainsite_corp3.png"
+  }
+]
+}

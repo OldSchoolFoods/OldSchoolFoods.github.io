@@ -13,11 +13,12 @@ $clr-second: #662E19;
       cursor: pointer;
       padding-top: 5px;
       padding-bottom: 5px;
-
+      padding-right: 0.75rem;
+      
       outline: none;
       position: relative;
       @include transition(all 0.3s);
-      border: 1px solid #ffffff;
+      border: 0.5px solid #8c7676;
       color: $brand-primary;
       overflow: hidden;
       -webkit-border-radius: 25px;
@@ -38,7 +39,7 @@ border-radius: 25px;
 
       &:before {
 
-         speak: none;
+         // speak: none;
          font-style: normal;
          font-weight: normal;
          font-variant: normal;

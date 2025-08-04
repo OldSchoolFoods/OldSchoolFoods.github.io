@@ -1,0 +1,238 @@
+{   "homeband":"/assets/images/homeband.jpg",
+    "brands":[
+  {
+    "name": "Kachori Kaka",
+    "logo": "/assets/logos/KK-logo.svg",
+    "description": "Our flagship brand offering awesome kachoris and deep-fried snacks.",
+    "link": "/brands/kachori-kaka",
+    "image": "/assets/images/homeslide/KK.jpg",
+    "gallery": [
+        {
+          "img": "/assets/images/prod/kk-1-Pyaaz-Kachori.jpg",
+          "alt": "Pyaaz Kachori",
+          "caption": "Traditional kachoris with spicy filling"
+        },
+        {
+          "img": "/assets/images/prod/kk-2-Kachori-Sabzi.jpg",
+          "alt": "Kachori Sabzi",
+          "caption": "Fresh and crispy snacks"
+        },
+        {
+          "img": "/assets/images/prod/kk-3-Potli-Samosa.jpg",
+          "alt": "Potli Samosa",
+          "caption": "Variety of deep-fried delicacies"
+        },
+        {
+          "img": "/assets/images/prod/kk-4-Matar-ki-Poori.jpg",
+          "alt": "Matar ki Poori",
+          "caption": "Authentic taste and quality"
+        },
+        {
+          "img": "/assets/images/prod/kk-5-Pav-Bhaji.jpg",
+          "alt": "Pav Bhaji",
+          "caption": "Variety of deep-fried delicacies"
+        },
+        {
+          "img": "/assets/images/prod/kk-6-Paneer-Pakoda.jpg",
+          "alt": "Paneer Pakoda",
+          "caption": "Authentic taste and quality"
+        },
+        {
+          "img": "/assets/images/prod/kk-7-Mawa-Kachori.jpg",
+          "alt": "Mawa Kachori",
+          "caption": "Made with traditional recipes"
+        },
+        {
+          "img": "/assets/images/prod/kk-8-Gajar-Halwa.jpg",
+          "alt": "Gajar Halwa",
+          "caption": "Perfect for any time snacking"
+        }
+    ]
+  },
+  {
+    "name": "El Pizzaro",
+    "logo": "/assets/logos/ElPizzaro-logo.jpg",
+    "description": "Mexican-inspired pizza brand with bold flavors.",
+    "link": "/brands/el-pizzaro",
+    "image": "/assets/images/homeslide/elpizzaro.jpg",
+    "gallery": [
+        {
+          "img": "/assets/images/prod/ep-1-Peppy-Paneer.jpg",
+          "alt": "Peppy Paneer",
+          "caption": "Traditional kachoris with spicy filling"
+        },
+        {
+          "img": "/assets/images/prod/ep-2-Punjabi-Tadka.jpg",
+          "alt": "Punjabi Tadka",
+          "caption": "Fresh and crispy snacks"
+        },
+        {
+          "img": "/assets/images/prod/ep-3-Aloo-Tikki-Burger.jpg",
+          "alt": "Aloo Tikki Burger",
+          "caption": "Variety of deep-fried delicacies"
+        },
+        {
+          "img": "/assets/images/prod/ep-4-Kulhad-Pizza.jpg",
+          "alt": "Veg Style Kulhad Pizza",
+          "caption": "Authentic taste and quality"
+        },
+        {
+          "img": "/assets/images/prod/ep-5-Mix-Handi-Pasta.jpg",
+          "alt": "Mix Handi Pasta",
+          "caption": "Variety of deep-fried delicacies"
+        },
+        {
+          "img": "/assets/images/prod/ep-6-Choco-Lava-Cupcake.jpg",
+          "alt": "Choco Lava Cupcake",
+          "caption": "Authentic taste and quality"
+        }
+    ]
+  },
+  {
+    "name": "House of Farali",
+    "logo": "/assets/logos/HoF-logo.svg",
+    "description": "High-quality fasting food, catering to dietary needs during fasting periods with a diverse variety.",
+    "link": "/brands/house-farali",
+    "image": "/assets/images/homeslide/hofarali.jpg",
+    "gallery": [
+        {
+          "img": "/assets/images/prod/hof1-Sabudana-Khichdi.jpg",
+          "alt": "Sabudana Khichdi",
+          "caption": "Traditional kachoris with spicy filling"
+        },
+        {
+          "img": "/assets/images/prod/hof2-Sabudana-Pakoda.jpg",
+          "alt": "Sabudana Pakoda",
+          "caption": "Fresh and crispy snacks"
+        },
+        {
+          "img": "/assets/images/prod/hof3-Kuttu-Poori-with-Vrat-Aloo-Sabzi.jpg",
+          "alt": "All Mix Farali Snacks",
+          "caption": "Variety of deep-fried delicacies"
+        },
+        {
+          "img": "/assets/images/prod/hof4-All-Mix-Farali-Snacks.jpg",
+          "alt": "Kuttu Poori with Vrat Aloo Sabzi",
+          "caption": "Authentic taste and quality"
+        },
+        {
+          "img": "/assets/images/prod/hof5-Maha-Vrat-Thali.jpg",
+          "alt": "Maha Vrat Thali",
+          "caption": "Variety of deep-fried delicacies"
+        }
+    ]
+  },
+  {
+    "name": "Celebrations by OSF",
+    "logo": "/assets/logos/OSF_celeb.png",
+    "description": "Preparing snacks, meals and refreshment boxes for corporate events.",
+    "link": "/brands/osf-celebrations",
+    "image": "/assets/images/homeslide/celeb.jpg",
+    "gallery": [
+        {
+          "img": "/assets/images/prod/box2-independence.jpg",
+          "alt": "Independence Day Platter",
+          "caption": "Fresh and crispy snacks"
+        },
+        {
+          "img": "/assets/images/prod/box1-xmas.jpg",
+          "alt": "Christmas Platter",
+          "caption": "Traditional kachoris with spicy filling"
+        },
+        {
+          "img": "/assets/images/prod/box5-womens-day.jpg",
+          "alt": "Women's Day",
+          "caption": "Fresh and crispy snacks"
+        },
+        {
+          "img": "/assets/images/prod/box6-Holi-Platter.jpg",
+          "alt": "Holi specials",
+          "caption": "Fresh and crispy snacks"
+        }
+      ]
+  },
+  {
+    "name": "Manpasand Thali",
+    "logo": "/assets/logos/OSF_MT.png",
+    "description": "Customizable lunch thalis.",
+    "link": "/brands/manpasand-thali",
+    "image": "/assets/images/homeslide/Manpasand.jpg",
+    "gallery": [
+        {
+          "img": "/assets/images/prod/mt-1-Shaahi-Paneer.jpg",
+          "alt": "Gravy - Paneer Makhmali",
+          "caption": "Traditional kachoris with spicy filling"
+        },
+        {
+          "img": "/assets/images/prod/mt-2-Aloo-Jeera.jpg",
+          "alt": "Dry Sabzi - Aloo Jeera",
+          "caption": "Fresh and crispy snacks"
+        },
+        {
+          "img": "/assets/images/prod/mt-3-Methi-Matar-Malai.jpg",
+          "alt": "Gravy - Methi Matar Malai",
+          "caption": "Variety of deep-fried delicacies"
+        },
+        {
+          "img": "/assets/images/prod/mt-4-Sweet-Gulab-Jamun.jpg",
+          "alt": "Sweet - Gulab Jamun",
+          "caption": "Authentic taste and quality"
+        }
+      ]
+  },
+  {
+    "name": "Elite Platters",
+    "logo": "/assets/logos/OSF_elite.png",
+    "description": "Tailored platters for senior leadership meetings.",
+    "link": "/brands/osf-elite",
+    "image": "/assets/images/homeslide/Elite.jpg",
+    "gallery": [
+        {
+          "img": "/assets/images/prod/box1-xmas.jpg",
+          "alt": "Christmas Platter",
+          "caption": "Traditional kachoris with spicy filling"
+        },
+        {
+          "img": "/assets/images/prod/box5-womens-day.jpg",
+          "alt": "Women's Day",
+          "caption": "Fresh and crispy snacks"
+        },
+        {
+          "img": "/assets/images/prod/box2-independence.jpg",
+          "alt": "Independence Day Platter",
+          "caption": "Fresh and crispy snacks"
+        },
+        {
+          "img": "/assets/images/prod/box3-HR26.jpg",
+          "alt": "HR26 platter",
+          "caption": "Variety of deep-fried delicacies"
+        },
+        {
+          "img": "/assets/images/prod/box4-Mexican-Platter.jpg",
+          "alt": "Mexican Platter",
+          "caption": "Authentic taste and quality"
+        },
+        {
+          "img": "/assets/images/prod/box6-Holi-Platter.jpg",
+          "alt": "Holi specials",
+          "caption": "Fresh and crispy snacks"
+        }
+      ]
+  },
+  {
+    "name": "Cafeterias by OSF",
+    "logo": "/assets/logos/OSF_cafe.png",
+    "description": "Comprehensive cafeteria services with a focus on quality and variety.",
+    "link": "/brands/osf-cafe",
+    "image": "/assets/images/homeslide/cafe.jpg"
+  },
+  {
+    "name": "OSF Live",
+    "logo": "/assets/logos/OSF_live.png",
+    "description": "On-site live event hosting with gas-free setups.",
+    "link": "/brands/osf-live",
+    "image": "/assets/images/homeslide/OSFlive.jpg"
+  }
+]
+
+}

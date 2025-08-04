@@ -1,0 +1,56 @@
+{
+  "title":"OSF caters to:",
+  "inRetail": [
+  {
+    "name": "Kachori Kaka",
+    "logo": "/assets/logos/KK-logo.svg",
+    "description": "Our flagship brand offering awesome kachoris and deep-fried snacks.",
+    "link": "/brands/kachori-kaka"
+  },
+  {
+    "name": "El Pizzaro",
+    "logo": "/assets/logos/ElPizzaro-logo.jpg",
+    "description": "Mexican-inspired pizza brand with bold flavors.",
+    "link": "/brands/el-pizzaro"
+  },
+  {
+    "name": "House of Farali",
+    "logo": "/assets/logos/HoF-logo.svg",
+    "description": "High-quality fasting food, catering to dietary needs during fasting periods with a diverse variety.",
+    "link": "/brands/house-farali"
+  }
+  ],
+  "inCorp": 
+  [
+  {
+    "name": "Celebrations by OSF",
+    "logo": "/assets/logos/OSF_celeb.png",
+    "description": "Preparing snacks, meals and refreshment boxes for corporate events.",
+    "link": "/brands/osf-celebrations"
+  },
+  {
+    "name": "Manpasand Thali",
+    "logo": "/assets/logos/OSF_MT.png",
+    "description": "Customizable lunch thalis.",
+    "link": "/brands/manpasand-thali"
+  },
+  {
+    "name": "Elite Platters",
+    "logo": "/assets/logos/OSF_elite.png",
+    "description": "Tailored platters for senior leadership meetings.",
+    "link": "/brands/osf-elite"
+  },
+  {
+    "name": "Cafeterias by OSF",
+    "logo": "/assets/logos/OSF_cafe.png",
+    "description": "Comprehensive cafeteria services with a focus on quality and variety.",
+    "link": "/brands/osf-cafe"
+  },
+  {
+    "name": "OSF Live",
+    "logo": "/assets/logos/OSF_live.png",
+    "description": "On-site live event hosting with gas-free setups.",
+    "link": "/brands/osf-live"
+  }
+  ]  
+}

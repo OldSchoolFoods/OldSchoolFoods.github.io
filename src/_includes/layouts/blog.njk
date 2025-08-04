@@ -1,0 +1,82 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+    <section class="site-blog-header">
+      <div class="container">
+         <div class="row pt-5">
+          <div class="col-lg-3 mx-auto py-4 ">
+            <div class="site-hero-content">
+              <h2>
+                {{title}}
+              </h2>
+            </div>
+          </div>
+          <div class="col-lg-9 px-5 px-xs-4 py-4 basebg">
+            <div class="site-hero-content">
+              <p>
+                {{des}}
+              </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </section>
+
+  <section class="site-blog">
+      <div class="container">
+        <div class="row">
+
+          {% for blogpost in posts %}
+          <div class="col-lg-6">
+            <article class="site-blog-post">
+              <div class="site-blog-post-thumb">
+                <img src="{{ blogpost.data.featureImg }}" alt="{{ blogpost.data.imageAlt }}" class="snippet__image">
+              </div>
+              <div class="site-blog-post-content">
+                <span class="postmeta">by {{ blogpost.data.author }} on {{ blogpost.data.postDate | postDate }}</span>
+                  <h3 class="h4">
+                    <a href="{{blogpost.data.page.url}}">{{blogpost.data.title}}</a>
+                  </h3>
+                  <p>
+                    {{blogpost.data.des}}
+                  </p>
+                  <span class="rtime">About {{ blogpost | readingTime }} reading time </span>
+                  <a href="{{blogpost.data.page.url}}" class="read-more">{{blogpost.data.btnText}}</a>
+              </div>
+            </article>
+          </div>
+          {% endfor %}
+
+          <div class="col-12">
+            <div class="site-blog-pagination">
+              <nav>
+                <ul class="pagination">
+                  {% if pagination.href.previous %}
+                    <li class="page-item"><a class="page-link" href="{{pagination.href.previous}}">Previous</a></li>
+                  {% endif %}
+                  {% for pageEntry in pagination.hrefs %}
+                    <li {% if page.url == pageEntry %}
+                            class='page-item active'
+                        {% else %}
+                            class='page-item'
+                        {% endif %}>
+                    <a class="page-link" href="{{ pageEntry }}">{{ loop.index }}</a>
+                    </li>
+                  {% endfor %}
+                  {% if pagination.href.next %}
+                    <li class="page-item"><a class="page-link" href="{{pagination.href.next}}">Next</a></li>                        
+                  {% endif %}
+                </ul>
+              </nav>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </section>
+
+    
+  
+{% endblock %}

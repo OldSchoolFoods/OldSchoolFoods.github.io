@@ -1,0 +1,53 @@
+{% extends "base.njk" %}
+
+{% block content %}
+    <section class="site-blog details">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-12 neutralbg">
+            <article class="site-blog-details">
+
+              <img class="feature-image" src="{{featureImg}}" alt="{{imageAlt}}">
+
+              <div class="beaut">
+              <h2 class="blog-title pt-3">{{title}}</h2>
+              <div class="d-flex justify-content-between">
+                <span class="">by {{ author }} on {{ postDate | postDate }}</span>
+                <span class="rtime">About {{ content | readingTime }} reading time </span>
+              </div>
+
+              {{content | safe}}
+              </div>
+            </article>
+
+            {% if collections.blogpost %}
+            {% set nextPost = collections.blogpost | getNextCollectionItem(page) %}
+            {% set previousPost = collections.blogpost | getPreviousCollectionItem(page) %}
+            <div class="site-project-single-action d-flex justify-content-between mt-5 pb-3">
+              {% if previousPost%}
+              <a href="{{previousPost.url}}">
+                <img class="rev" src="/assets/images/to-top.svg" alt="next project">
+                <span class="link-area">
+                  <span data-text="{{previousPost.data.title}}">
+                    Previous Blog Post
+                  </span>
+                </span>
+              </a>
+              {% endif %}
+              {% if nextPost %}
+              <a href="{{nextPost.url}}">
+                <span class="link-area">
+                  <span  data-text="{{nextPost.data.title}}">
+                    Next Blog Post
+                  </span>
+                </span>
+                <img src="/assets/images/to-top.svg" alt="next project">
+              </a> 
+              {% endif %} 
+            </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </section>
+{% endblock %}

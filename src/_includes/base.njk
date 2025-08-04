@@ -1,63 +1,179 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zxx">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {# {% favicon '/favicon.svg' %} #}
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin">
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;600&family=Work+Sans:ital,wght@0,600;1,100&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/style.css">
-    <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/svg" sizes="32x32" href="/favicon.svg">
-    <link rel="icon" type="image/ico" sizes="16x16" href="/favicon.ico">
-<script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <title>{{ title }}</title>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-217728373-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <meta charset="utf-8" />
+    <title>Old School Foods</title>
+    <meta name="generator" content="Old School Foods">
+    <!--Meta For No Index-->
+    <meta name="robots" content="noindex, Nofollow, Noimageindex">
 
-  gtag('config', 'UA-217728373-2');
-</script>
+    <!-- mobile responsive meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+
+    <!-- Slick Carousel -->
+    <link rel="stylesheet" href="/assets/vendor/slick/slick.css" />
+    <link rel="stylesheet" href="/assets/vendor/slick/slick-theme.css" />
+    <!-- Font Awesome -->
+    <link
+      rel="preconnect"
+      href="/assets/vendor/font-awesome/css/font-awesome.min.css"
+    />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="/assets/vendor/bootstrap/bootstrap.min.css" />
+    <!-- Stylesheets -->
+    <link href="/assets/css/style.css" rel="stylesheet" />
+    <link href="/assets/css/gallery_css.css" rel="stylesheet" />
+    
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="/assets/images/apple-touch-icon.png" type="image/x-icon" />
+    <link rel="icon" type="image/svg" sizes="32x32" href="/assets/images/favicon.svg">
+    <link rel="icon" type="image/ico" sizes="16x16" href="/assets/images/favicon.ico">
   </head>
+
   <body>
-    {% include 'header.njk' %}
-    <main>
-    {{ content | safe }}
-    </main>
-    {% include 'footer.njk' %}
+  {% block navbar %}
+    <nav class="navbar navbar-expand-lg site-navigation">
+      <div class="container">
+        <a class="navbar-brand" href="/">
+          <img src="{{nav.navLogo}}" alt="nav-logo" />
+        </a>
+        <div class="motto">
+          <h5>Food We Respect is<br>Food We Serve</h5>
+        </div>
+        <button
+          class="navbar-toggler collapsed"
+          type="button"
+          data-toggle="collapse"
+          data-target="#sitenavbar"
+        >
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="sitenavbar">
+        <!--  <ul class="navbar-nav ml-auto top-nav">
+            <li><a href="#">Interact</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul> -->
+          <ul class="navbar-nav ml-auto main-nav">
+            {% for navLink in nav.navLinks %}
+            <li class="nav-item">
+            {% if navLink == "home" %}
+                <a class="nav-link" href="/">{{navLink}}</a>
+              {% else %}
+                <a class="nav-link scroll-to" href="/{{ navLink.url }}">{{ navLink.text }}</a>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
 
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-  $('a[href^="/#"]').on('click', function(e) {
-    // prevent default anchor click behavior
-    e.preventDefault();
-    // store hash
-    var hash = this.hash;
-    // animate
-    $('html, body').animate({
-      scrollTop: $(hash).offset().top - 100
-    }, 1000, function() {
-      // when done, add hash to url
-      // (default click behaviour)
-      // window.location.hash = hash;
-    });
+        </div>
+      </div>
+    </nav>
+  {% endblock %}
 
-  });
-</script>
+  {% block content %}
+    {{content | safe}}
+  {% endblock %}
+
+  {% block footer %}
+    <footer class="site-footer mt-5" id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="site-footer-logo">
+              <a href="/">
+                <img src="{{footer.footerLogo}}" alt="logo-footer">
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="site-footer-widget">
+              <h5 class="site-footer-widget-title">{{footer.contactsHeading}}</h5>
+              <p class="site-footer-widget-description">
+                <b>Address :</b> Near Galleria Market, Sector 28, Golf Course Road, Gurugram - 122001
+              </p>
+              {% for contactInfo in footer.contactsInfo %}
+                 <p class="site-footer-widget-description"><b>{{contactInfo.labels}} </b> <a href="{{contactInfo.link}}">{{contactInfo.text}}</a>
+                </p>
+              {% endfor %}
+              
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6">
+            <div class="site-footer-widget">
+              <h5 class="site-footer-widget-title">{{footer.siteMapHeading}}</h5>
+              <ul class="site-footer-widget-links">
+                {% for siteMap in footer.siteMap %}
+                 <li>
+                  <a href="/{{siteMap.link}}">{{siteMap.text}}</a>
+                 </li> 
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6">
+            <div class="site-footer-widget">
+              <h5 class="site-footer-widget-title">{{footer.socialHeading}}</h5>
+              <ul class="site-footer-widget-links">
+                {% for socialMedia in footer.socialMedia %}
+                <li><a href="/{{socialMedia.link}}" target="_blank"><img src="{{socialMedia.icon}}" alt="{{socialMedia.text}}"></a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="site-footer-widget">
+              <h5 class="site-footer-widget-title">{{footer.brandHeading}}</h5>
+              <p class="site-footer-widget-description">
+              {% for brandMotto in footer.brandMotto %}
+                - {{brandMotto}}
+                <br>
+              {% endfor %}
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-2 col-12">
+            
+            <a href="#top" class="site-footer-widget-top">
+              <img src="{{footer.back2topIcon}}" alt="back-to-top">
+              <p>
+                {{footer.customerComment}}
+              </p>
+            </a>
+            <div class="orders">
+              <a href="https://forms.gle/ZvyjwAps7NXjRJea9" target="_blank">
+                <h2>Catering Requests</h2>
+              </a>
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="site-footer-copyright text-center my-3">
+              <p>© 2021 - <span id="current-year"></span> Old School Foods. All rights reserved.</p>
+              <div class="lic">
+    <span><img src="/assets/images/Fssai-Logo-Vector.png" alt="FSSAI"/> FSSAI licence 20821005002650</span>  
+<span>GSTIN 06BVTPD5815R1ZT</span>
+<span><img src="/assets/images/MSME-logo.png" alt="MSME"/> MSME Number UDYAM-HR-05-0010096</span>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  {% endblock %}
+    <!-- <script src="js/vendor.js"></script> -->
+    <script src="/assets/vendor/jQuery/jquery.min.js"></script>
+    <script src="/assets/vendor/bootstrap/bootstrap.min.js"></script>
+    <script src="/assets/vendor/slick/slick.min.js"></script>
+    <script src="/assets/js/script.js"></script> 
+    <script src="/assets/js/gallery_js.js"></script>    
   </body>
 </html>
+

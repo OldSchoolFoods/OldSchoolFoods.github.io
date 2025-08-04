@@ -1,0 +1,14 @@
+<article class="snippet">
+  <img src="{{ blogpost.data.featureImg }}" alt="{{ blogpost.data.imageAlt }}" class="snippet__image">
+  <h3 class="snippet__title">
+    <a href="{{ post.url }}">{{ blogpost.data.title }}</a>
+  </h3>
+  <p class="snippet__meta">by
+    <span>{{ blogpost.data.author }}</span>
+    on
+    <span>{{ blogpost.data.date | postDate }}</span></p>
+  <p class="snippet__body">{{ blogpost.data.description }}<br><br>
+  <span class="rtime">About {{ blogpost | readingTime }} reading time </span></p>
+
+  <a href="{{ post.url }}" class="btn btn--primary">Continue Reading</a>
+</article>

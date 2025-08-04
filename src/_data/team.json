@@ -1,0 +1,27 @@
+{
+  "title": "About the Founder",
+  "teamMembers":[
+    {
+      "name": "Ankur Dubey",
+      "dig": "Founder",
+      "subtitle": "Ankur, the founder of OSF, is a passionate and innovative entrepreneur.",
+      "teamdesc":"A proud BITS Pilani graduate with experience at Amazon, he brings a systematic and efficient approach to OSF. ",
+      "teampara":"His love for math helps in optimizing processes and reducing food waste. Ankur's dedication to customer satisfaction stems from his time at Amazon, where he learned to obsess over customer needs. His resilience, commitment to quality, and belief in the greater good have driven OSF's success.",
+      "img": "/assets/images/team/AnkurDubey.jpg",
+      "social":[
+        {
+          "icon": "medium",
+          "link": "#"
+        },
+        {
+          "icon": "linkedin",
+          "link": "#"
+        },
+        {
+          "icon": "instagram",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}

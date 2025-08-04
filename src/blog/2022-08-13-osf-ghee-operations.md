@@ -1,12 +1,13 @@
 ---
 title: "OSF: Ghee Operations"
-description: This document shares our best practices on Ghee usage, effective
+des: "This document shares our best practices on Ghee usage, effective
   utilisation of ghee, leading to minimum wastage and optimum life of ghee as
-  fuel
+  fuel"
 author: Ankur Dubey
-date: 2022-07-28T03:50:01.619Z
-image: /assets/blog/ghee-blog-cover-pic.png
+postDate: 2022-07-28T03:50:01.619Z
+featureImg: /assets/blog/ghee-blog-cover-pic.png
 imageAlt: The image is suitable for commercial licenses.
+btnText: "read more"
 tags:
   - post
 ---
@@ -43,7 +44,7 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
 
 <div>
 
-### **I. Tracking Daily usage of Ghee**
+### I. Tracking Daily usage of Ghee
 
 </div>
 
@@ -55,7 +56,7 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
 2. This way, we know the average consumption of ghee per item.
 3. We have a benchmark consumption scale and we try to contain our consumption within that range
 
-### **II. Optimal frying of kachoris**
+### II. Optimal frying of kachoris
 
 </div>
 
@@ -72,7 +73,7 @@ Below is a detailed explanation of how we can effectively utilize ghee mechanism
 
 <div>
 
-### **III. Study of heat cycles**
+### III. Study of heat cycles
 
 </div>
 
@@ -96,7 +97,7 @@ For our purpose, we have understood we want to limit our usage within GH5 - GH9 
 
 <div>
 
-### **IV. Regular cleaning**
+### IV. Regular cleaning
 
 </div>
 
@@ -114,7 +115,7 @@ For our purpose, we have understood we want to limit our usage within GH5 - GH9 
 
 <div>
 
-### **V. Avoiding unnecessary oxidation**
+### V. Avoiding unnecessary oxidation
 
 </div>
 
@@ -132,7 +133,7 @@ For our purpose, we have understood we want to limit our usage within GH5 - GH9 
 
 <div>
 
-### **VI. Using only the required amount of ghee**
+### VI. Using only the required amount of ghee
 
 </div>
 
@@ -157,7 +158,7 @@ We have to be extremely careful with its usage, try not to waste any, and savor 
 
 </div>
 
-### **REFERENCES**
+### REFERENCES
 
 <https://oldschoolfoods.in/blog/2021-09-02-oil-study/>
 

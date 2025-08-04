@@ -1,0 +1,13 @@
+{
+  "navLogo":"/assets/images/OSF-logo.svg",
+  "navLinks":[
+    { "text": "About OSF", "url": "about" },
+    { "text": "Executive Stay", "url": "#stay" },
+    { "text": "Clientele", "url": "#clientele" },
+    { "text": "Blog", "url": "blog" },
+    { "text": "Interact", "url": "interact/index.html"},
+    { "text": "Rate List", "url": "../interact/assets/OSFRates_web.pdf"}
+  ],
+  "navBtnLink":"contact",
+  "navBtnText":"Get in touch"
+}

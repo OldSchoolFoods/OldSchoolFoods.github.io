@@ -1,9 +1,0 @@
-# Redirect for QR 1
-http://qr.oldschoolfoods.in/1 https://oldschoolfoods.in/interact
-https://qr.oldschoolfoods.in/1 https://oldschoolfoods.in/interact
-
-# All other URLs of the format qr.oldschoolfoods.in/<anything> redirect to the home page of osf. 
-# This rule must always appear at the end of the file because of rule processing order of Netlify
-# For more info: https://docs.netlify.com/routing/redirects/#rule-processing-order
-http://qr.oldschoolfoods.in/* https://oldschoolfoods.in
-https://qr.oldschoolfoods.in/* https://oldschoolfoods.in

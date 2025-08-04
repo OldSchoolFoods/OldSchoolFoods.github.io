@@ -1,0 +1,160 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+    <section class="site-hero">
+      <div class="container">
+        <div class="row intro">
+          <div class="col-lg-4 mx-auto py-4 ">
+            <div class="site-hero-content">
+              <!--<h6>{{hero.subTitle}}</h6>-->
+              <h2>
+                {{hero.title.firstPara}}
+              </h2>
+            </div>
+          </div>
+          <div class="col-lg-6 px-5 px-xs-4 py-4 basebg">
+            <div class="site-hero-content">
+              <p>
+                {{hero.title.secondPara}}
+              </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      
+    </section>
+
+    <section class="site-counter" id="brand">
+      <img class="mw-100" src="{{ brand.homeband }}" alt="OSF images">
+    
+      <div class="container py-5">
+        <div class="row">
+          <div class="col-12">
+            
+            <div class="brand-carousel">
+                
+             <div class="brand-top">
+              <div class="trade">
+                <h2>Brand Basket</h2>
+              </div>
+
+              <div class="thumbnail-wrap">
+                <div class="brand-thumbnails slider-nav">
+                  {% for brand in brand.brands %}
+                    <div class="thumbnail">
+                      <a href="{{ brand.link }}">
+                        <div class="thumbnail-img">
+                          <img 
+                            src="{{ brand.logo }}" 
+                            alt="{{ brand.name }}" 
+                            loading="lazy"
+                          >
+                        </div>
+                      </a>
+                    </div>
+                  {% endfor %}
+                </div>
+              </div>
+              
+            </div>
+
+              <!-- Content Row -->
+              <div class="position-relative pt-5">
+              <div class="brand-details slider-for">
+                {% for brand in brand.brands %}
+                  <div class="detail-row align-items-start">
+                    <div class="left">
+                      <h2>{{ brand.name }}</h2>
+                      <p>{{ brand.description }}</p>
+                      <a href="{{ brand.link }}" class="read-more">Read More →</a>
+                    </div>
+                    <div class="right">
+                      <img src="{{ brand.image }}" alt="{{ brand.name }} Image">
+                    </div>
+                  </div>
+                {% endfor %}
+              </div>
+              <div class="vertical-dots"></div>
+              </div>
+              
+
+            </div>
+          </div>
+
+          
+        </div>
+      </div>
+    </section>
+    
+    <section class="site-counter mt-5 py-5" id="clientele">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-2">
+            <div class="trade">
+                <h2>Corporate Clientele</h2>
+            </div>
+           </div>
+           <div class="col-12 col-lg-10"> 
+            <p class="py-4 h4">Trusted by clients across Gurgaon:</p>
+            <div class="position-relative">
+              <div class=" brand-details client-for">
+                {% for cclient in cclient.cclients %}
+                  <div class="right">
+                    <img src="{{ cclient.image }}">
+                  </div>
+                {% endfor %}
+              </div>
+              <div class="cvertical-dots"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> 
+    
+    <section class="site-counter mt-5 py-5" id="stay">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-2">
+            <div class="trade">
+                <h2>Executive Stay</h2>
+            </div>
+          </div>
+          <div class="col-12 col-lg-10"> 
+            <div class="brand-details">
+                  <div class="detail-row  align-items-start">
+                    <div class="col-md-6 pt-5">
+                     <!-- <img class="grace py-2" src="assets/images/GraceInn_Logo.jpg" alt="Grace Inn">-->
+                      <h2>The Grace Inn</h2>
+                      <p class="py-2 h4">Where Business Meets Comfort in Gurgaon</p>
+                      <p>Located just steps from Golf Course Road, The Grace Inn is a <b>premium business-class hotel designed for corporate travelers</b>. With quick access to major hubs like Cyber City and Udyog Vihar, it offers unmatched convenience. </p>
+                      <p>Guests enjoy: </p>
+                      <ul>
+                        <li class="pb-1">Professional <b>chauffeur-driven transfers</b></li>
+                        <li class="pb-1"><b>Diverse culinary menu</b> blending comfort food with global cuisine</li>
+                        <li class="pb-1"><b>Luxurious rooms</b> tailored for relaxation and productivity</li>
+                      </ul>
+                      <p>Known for its <b>prime location</b>, <b>warm hospitality</b>, and <b>best-in-class dining</b>, The Grace Inn delivers an experience of elegance and efficiency.</p>
+                      <a href="https://wa.me/8826000547?text=Grace%20Inn%20Enquiry" class="read-more pb-5">Booking enquiries→</a>
+                    </div>
+                    <div class="col-md-6">
+                    
+                    <img class="w-100 py-2" src="assets/images/gracehotel_front.jpg" alt="Grace Inn">                      
+                    </div>
+                    
+                  </div>
+            </div>
+          </div>
+          <div class="col-12 grace-for">
+            {% for grace in grace.graces %}
+              <div class="detail-row ">
+                <img class="mw-100 py-2" src="{{ grace.image }}" alt="{{ grace.name }} Image">
+              </div>
+            {% endfor %}
+          </div> 
+        </div>
+      </div>
+    </section>
+
+{% endblock %}

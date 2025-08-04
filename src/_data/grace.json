@@ -1,0 +1,24 @@
+{
+    "graces":[
+  {
+    "name": "Hotel exterior",
+    "image": "/assets/images/grace/set1.jpg"
+  },
+  {
+    "name": "Lobby",
+    "image": "/assets/images/grace/set2.jpg"
+  },
+    {
+    "name": "Terrace",
+    "image": "/assets/images/grace/set3.jpg"
+  },
+  {
+    "name": "Rooms",
+    "image": "/assets/images/grace/set4.jpg"
+  },
+    {
+    "name": "Rooms",
+    "image": "/assets/images/grace/set5.jpg"
+  }
+]
+}

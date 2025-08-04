@@ -1,13 +1,14 @@
 ---
 title: Physics for the Perfect Kachori
-description: While it may sound simple to achieve as kachori is a snack which is
+des: While it may sound simple to achieve as kachori is a snack which is
   available in every city of India. But with atta nowhere. The reason is simple
   because atta is not as elastic as maida.  So how did we get this perfectly
   shaped kachori? Let's dive right into it.
 author: Ankur Dubey
-date: 2022-05-04T10:44:24.850Z
-image: /assets/blog/screenshot-2022-04-29-at-10.35.44-am.png
+postDate: 2022-05-04T10:44:24.850Z
+featureImg: /assets/blog/screenshot-2022-04-29-at-10.35.44-am.png
 imageAlt: Deep fried fluffy atta kachoris
+btnText: "read more"
 tags:
   - post
 ---

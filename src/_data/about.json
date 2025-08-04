@@ -1,0 +1,21 @@
+{
+    "title": "OSF's Journey",
+    "journey":[
+  {
+    "alt": "journey",
+    "image": "/assets/images/about/journey1.png"
+  },
+  {
+    "alt": "journey",
+    "image": "/assets/images/about/journey2.png"
+  },
+  {
+    "alt": "journey",
+    "image": "/assets/images/about/journey3.png"
+  },
+  {
+    "alt": "journey",
+    "image": "/assets/images/about/journey4.png"
+  }
+]
+}

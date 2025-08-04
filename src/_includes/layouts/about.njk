@@ -1,0 +1,135 @@
+{% extends "base.njk" %}
+
+{% block content %}
+    <section class="site-about-header mt-5">
+      <div class="container mt-5">
+        <div class="row">
+          <div class="col-12 mt-3">
+            <div class="site-about-wrapper">
+              <div class="site-about-company">
+                {{content | safe}}
+              </div>
+              <div class="site-about-description">
+                <h4>
+                  {{abouthead}}
+                </h4>
+                <p>
+                  {{subhead}}
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="site-team">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <h2 class="neutral100">
+                {{team.title}}
+              </h2>
+            </div>
+          </div>
+          {% for teamMember in team.teamMembers %}
+          <div class="col-12 d-flex site-team-member">
+            <div class="col-lg-4 col-md-4">
+                
+                <div class="site-team-member-image">
+                <img class="mw-100" src="{{teamMember.img}}" alt="team-member">
+              </div>
+            </div>
+            <div class="col-lg-8">
+                <span class="fs-4">{{teamMember.dig}}</span>
+                <h3>{{teamMember.name}}</h3>
+                <p></p>
+                <h4 class="h5">{{teamMember.subtitle}}</h4>
+                <p>{{teamMember.teamdesc}}</p>
+                <p>{{teamMember.teampara}}</p>
+                <p class="fs-3 w-75 pb-3 pale">
+                  {{des}}
+                </p>
+                
+              </div>
+          </div> 
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+    
+    <section class="site-client pt-0">
+      <div class="container">
+        <div class="row">
+          
+          <div class="col-12 col-md-3">
+            <div class="section-title">
+              <h2 class="neutral100">
+                {{about.title}}
+              </h2>
+            </div>
+          </div>
+          <div class="col-12 col-md-9 slider-for">
+            {% for journey in about.journey %}
+              <div class="right">
+                <img class="mw-100" src="{{ journey.image }}" alt="{{ journey.alt }} Image">
+              </div>
+            {% endfor %}
+          </div>
+          
+        </div>
+      </div>
+    </section> 
+
+    <section class="site-expertise">
+      <div class="container">
+        <div class="row pb-5">
+          <div class="section-title">
+            <h2>{{expertise.title}}</h2>
+          </div>
+        </div>  
+        <div class="row">
+          <div class="col-md-6">
+            <h4 class="h3">Retail Customers</h4>
+            <ul class="site-expertise-list">
+              {% for inRetail in expertise.inRetail %}
+                <li>
+                  <div class="row">
+                    <div class="thumbnail col-4 col-md-3">
+                      <img class="w-100" src="{{ inRetail.logo }}" alt="{{ inRetail.name }}">
+                    </div>
+                    <div class="col-8 col-md-8">
+                        <h2 class="h5">{{ inRetail.name }}</h2>
+                        <p class="text-sm-start">{{ inRetail.description }}</p>
+                        <a href="{{ inRetail.link }}" class="read-more fs-2">Read More →</a>
+                    </div>
+                  </div>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <h4 class="h3">Corporate Sector</h4>
+            <ul class="site-expertise-list">
+              {% for inCorp in expertise.inCorp %}
+                <li>
+                  <div class="row">
+                    <div class="thumbnail col-4 col-md-3">
+                      <img class="w-100" src="{{ inCorp.logo }}" alt="{{ inCorp.name }}">
+                    </div>
+                    <div class="col-8 col-md-8">
+                        <h2 class="h5">{{ inCorp.name }}</h2>
+                        <p class="text-sm-start">{{ inCorp.description }}</p>
+                        <a href="{{ inCorp.link }}" class="read-more fs-2">Read More →</a>
+                    </div>
+                  </div>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>   
+
+{% endblock %}

@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "qr.oldschoolfoods.in/1"
-  to = "/interact"
+  from = "https://qr.oldschoolfoods.in/1"
+  to = "https://oldschoolfoods.in/interact"
   status = 301
   force = true
 
